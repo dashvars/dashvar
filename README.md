@@ -1,6 +1,6 @@
 # tailvars
 
-![Build](https://github.com/carlosbaraza/tailvars/workflows/Build%20and%20Deploy/badge.svg)
+[![Build](https://github.com/carlosbaraza/tailvars/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/carlosbaraza/tailvars/actions?query=workflow%3A%22Build+and+Deploy%22)
 
 CSS variables library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
 
