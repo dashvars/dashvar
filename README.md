@@ -6,9 +6,8 @@ CSS variables library. Strong defaults for good looking designs. Inspired by Tai
 
 Features:
 
-- [x] Tiny (<5KB Gzipped)
-- [x] Only CSS variables, nothing intrusive. Easy to start using right now.
-- [x] Responsive design
+- [x] Tiny (<4KB uncompressed or <1.5KB gzipped)
+- [x] Only CSS variables, no global styles. No risk to start using with an existing project.
 - [x] Colour palette
 - [x] Spacing scale
 - [x] Text:
@@ -37,7 +36,13 @@ Usage example:
   color: var(--gray-800);
   font-size: var(--font-size-2); /* 1rem / 16px */
   line-height: var(--line-height-2); /* 1.5rem / 24px */
-  padding: var(--md-s-10, var(--s-5)); /* Space 5 to mobile. Space 10 to tablet+ */
+  padding: var(--s-5)); /* 1.25rem / 20px	*/
+}
+
+@media (min-width: 768px) {
+  .component {
+    padding: var(--s-10); /* 2.5rem / 40px	*/
+  }
 }
 ```
 

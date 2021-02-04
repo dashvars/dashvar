@@ -2,24 +2,4 @@
 
 :root {
   @include variables("");
-
-  @media (min-width: 640px) {
-    @include variables("sm-");
-  }
-
-  @media (min-width: 768px) {
-    @include variables("md-");
-  }
-
-  @media (min-width: 1024px) {
-    @include variables("lg-");
-  }
-
-  @media (min-width: 1280px) {
-    @include variables("xl-");
-  }
-
-  @media (min-width: 1536px) {
-    @include variables("2xl-");
-  }
 }
