@@ -22,6 +22,9 @@ Features:
   - [ ] `styled-components`
   - [ ] `styled-jsx`
   - [ ] `CSS modules`
+- [ ] VS Code extension with IntelliSense
+- [ ] NPM package
+- [ ] Good documentation
 
 # Getting started
 
