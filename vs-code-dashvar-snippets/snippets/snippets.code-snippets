@@ -1,0 +1,1178 @@
+{
+  "Size 00 (0px)": {
+    "prefix": "--size-00",
+    "body": [
+      "var(--size-00)"
+    ],
+    "description": "Size 00 (0px)"
+  },
+  "Size 01 (0.125rem / 2px)": {
+    "prefix": "--size-01",
+    "body": [
+      "var(--size-01)"
+    ],
+    "description": "Size 01 (0.125rem / 2px)"
+  },
+  "Size 02 (0.25rem / 4px)": {
+    "prefix": "--size-02",
+    "body": [
+      "var(--size-02)"
+    ],
+    "description": "Size 02 (0.25rem / 4px)"
+  },
+  "Size 03 (0.5rem / 8px)": {
+    "prefix": "--size-03",
+    "body": [
+      "var(--size-03)"
+    ],
+    "description": "Size 03 (0.5rem / 8px)"
+  },
+  "Size 04 (0.75rem / 12px)": {
+    "prefix": "--size-04",
+    "body": [
+      "var(--size-04)"
+    ],
+    "description": "Size 04 (0.75rem / 12px)"
+  },
+  "Size 05 (1rem / 16px)": {
+    "prefix": "--size-05",
+    "body": [
+      "var(--size-05)"
+    ],
+    "description": "Size 05 (1rem / 16px)"
+  },
+  "Size 06 (1.5rem / 24px)": {
+    "prefix": "--size-06",
+    "body": [
+      "var(--size-06)"
+    ],
+    "description": "Size 06 (1.5rem / 24px)"
+  },
+  "Size 07 (2rem / 32px)": {
+    "prefix": "--size-07",
+    "body": [
+      "var(--size-07)"
+    ],
+    "description": "Size 07 (2rem / 32px)"
+  },
+  "Size 08 (3rem / 48px)": {
+    "prefix": "--size-08",
+    "body": [
+      "var(--size-08)"
+    ],
+    "description": "Size 08 (3rem / 48px)"
+  },
+  "Size 09 (4rem / 64px)": {
+    "prefix": "--size-09",
+    "body": [
+      "var(--size-09)"
+    ],
+    "description": "Size 09 (4rem / 64px)"
+  },
+  "Size 10 (6rem / 96px)": {
+    "prefix": "--size-10",
+    "body": [
+      "var(--size-10)"
+    ],
+    "description": "Size 10 (6rem / 96px)"
+  },
+  "Size 11 (8rem / 128px)": {
+    "prefix": "--size-11",
+    "body": [
+      "var(--size-11)"
+    ],
+    "description": "Size 11 (8rem / 128px)"
+  },
+  "Size 12 (12rem / 192px)": {
+    "prefix": "--size-12",
+    "body": [
+      "var(--size-12)"
+    ],
+    "description": "Size 12 (12rem / 192px)"
+  },
+  "Size 13 (16rem / 256px)": {
+    "prefix": "--size-13",
+    "body": [
+      "var(--size-13)"
+    ],
+    "description": "Size 13 (16rem / 256px)"
+  },
+  "Size 14 (24rem / 384px)": {
+    "prefix": "--size-14",
+    "body": [
+      "var(--size-14)"
+    ],
+    "description": "Size 14 (24rem / 384px)"
+  },
+  "Size 15 (32rem / 512px)": {
+    "prefix": "--size-15",
+    "body": [
+      "var(--size-15)"
+    ],
+    "description": "Size 15 (32rem / 512px)"
+  },
+  "Size 16 (48rem / 768px)": {
+    "prefix": "--size-16",
+    "body": [
+      "var(--size-16)"
+    ],
+    "description": "Size 16 (48rem / 768px)"
+  },
+  "Size 17 (64rem / 1024px)": {
+    "prefix": "--size-17",
+    "body": [
+      "var(--size-17)"
+    ],
+    "description": "Size 17 (64rem / 1024px)"
+  },
+  "Size 18 (90rem / 1440px)": {
+    "prefix": "--size-18",
+    "body": [
+      "var(--size-18)"
+    ],
+    "description": "Size 18 (90rem / 1440px)"
+  },
+  "Box Shadow 0 (0 0 #0000)": {
+    "prefix": "--box-shadow-0",
+    "body": [
+      "var(--box-shadow-0)"
+    ],
+    "description": "Box Shadow 0 (0 0 #0000)"
+  },
+  "Box Shadow 1 (0 1px 2px 0 rgba(0, 0, 0, 0.05))": {
+    "prefix": "--box-shadow-1",
+    "body": [
+      "var(--box-shadow-1)"
+    ],
+    "description": "Box Shadow 1 (0 1px 2px 0 rgba(0, 0, 0, 0.05))"
+  },
+  "Box Shadow 2 (0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06))": {
+    "prefix": "--box-shadow-2",
+    "body": [
+      "var(--box-shadow-2)"
+    ],
+    "description": "Box Shadow 2 (0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06))"
+  },
+  "Box Shadow 3 (0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06))": {
+    "prefix": "--box-shadow-3",
+    "body": [
+      "var(--box-shadow-3)"
+    ],
+    "description": "Box Shadow 3 (0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06))"
+  },
+  "Box Shadow 4 (0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05))": {
+    "prefix": "--box-shadow-4",
+    "body": [
+      "var(--box-shadow-4)"
+    ],
+    "description": "Box Shadow 4 (0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05))"
+  },
+  "Box Shadow 5 (0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04))": {
+    "prefix": "--box-shadow-5",
+    "body": [
+      "var(--box-shadow-5)"
+    ],
+    "description": "Box Shadow 5 (0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04))"
+  },
+  "Box Shadow 6 (0 25px 50px -12px rgba(0, 0, 0, 0.25))": {
+    "prefix": "--box-shadow-6",
+    "body": [
+      "var(--box-shadow-6)"
+    ],
+    "description": "Box Shadow 6 (0 25px 50px -12px rgba(0, 0, 0, 0.25))"
+  },
+  "Box Shadow Inner (inset 0 2px 4px 0 rgba(0, 0, 0, 0.06))": {
+    "prefix": "--box-shadow-inner",
+    "body": [
+      "var(--box-shadow-inner)"
+    ],
+    "description": "Box Shadow Inner (inset 0 2px 4px 0 rgba(0, 0, 0, 0.06))"
+  },
+  "Border Radius 0 (0px)": {
+    "prefix": "--border-radius-0",
+    "body": [
+      "var(--border-radius-0)"
+    ],
+    "description": "Border Radius 0 (0px)"
+  },
+  "Border Radius 1 (0.125rem / 2px)": {
+    "prefix": "--border-radius-1",
+    "body": [
+      "var(--border-radius-1)"
+    ],
+    "description": "Border Radius 1 (0.125rem / 2px)"
+  },
+  "Border Radius 2 (0.25rem / 4px)": {
+    "prefix": "--border-radius-2",
+    "body": [
+      "var(--border-radius-2)"
+    ],
+    "description": "Border Radius 2 (0.25rem / 4px)"
+  },
+  "Border Radius 3 (0.5rem / 8px)": {
+    "prefix": "--border-radius-3",
+    "body": [
+      "var(--border-radius-3)"
+    ],
+    "description": "Border Radius 3 (0.5rem / 8px)"
+  },
+  "Border Radius 4 (0.75rem / 12px)": {
+    "prefix": "--border-radius-4",
+    "body": [
+      "var(--border-radius-4)"
+    ],
+    "description": "Border Radius 4 (0.75rem / 12px)"
+  },
+  "Border Radius 5 (1rem / 16px)": {
+    "prefix": "--border-radius-5",
+    "body": [
+      "var(--border-radius-5)"
+    ],
+    "description": "Border Radius 5 (1rem / 16px)"
+  },
+  "Border Radius 6 (1.5rem / 24px)": {
+    "prefix": "--border-radius-6",
+    "body": [
+      "var(--border-radius-6)"
+    ],
+    "description": "Border Radius 6 (1.5rem / 24px)"
+  },
+  "Border Radius 7 (2rem / 32px)": {
+    "prefix": "--border-radius-7",
+    "body": [
+      "var(--border-radius-7)"
+    ],
+    "description": "Border Radius 7 (2rem / 32px)"
+  },
+  "Border Radius 8 (3rem / 48px)": {
+    "prefix": "--border-radius-8",
+    "body": [
+      "var(--border-radius-8)"
+    ],
+    "description": "Border Radius 8 (3rem / 48px)"
+  },
+  "Border Radius 9 (4rem / 64px)": {
+    "prefix": "--border-radius-9",
+    "body": [
+      "var(--border-radius-9)"
+    ],
+    "description": "Border Radius 9 (4rem / 64px)"
+  },
+  "Border Radius Full (9999px)": {
+    "prefix": "--border-radius-full",
+    "body": [
+      "var(--border-radius-full)"
+    ],
+    "description": "Border Radius Full (9999px)"
+  },
+  "Opacity 0 (0)": {
+    "prefix": "--opacity-0",
+    "body": [
+      "var(--opacity-0)"
+    ],
+    "description": "Opacity 0 (0)"
+  },
+  "Opacity 1 (0.2)": {
+    "prefix": "--opacity-1",
+    "body": [
+      "var(--opacity-1)"
+    ],
+    "description": "Opacity 1 (0.2)"
+  },
+  "Opacity 2 (0.4)": {
+    "prefix": "--opacity-2",
+    "body": [
+      "var(--opacity-2)"
+    ],
+    "description": "Opacity 2 (0.4)"
+  },
+  "Opacity 3 (0.6)": {
+    "prefix": "--opacity-3",
+    "body": [
+      "var(--opacity-3)"
+    ],
+    "description": "Opacity 3 (0.6)"
+  },
+  "Opacity 4 (0.8)": {
+    "prefix": "--opacity-4",
+    "body": [
+      "var(--opacity-4)"
+    ],
+    "description": "Opacity 4 (0.8)"
+  },
+  "Opacity 5 (1)": {
+    "prefix": "--opacity-5",
+    "body": [
+      "var(--opacity-5)"
+    ],
+    "description": "Opacity 5 (1)"
+  },
+  "Font Family Sans (ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\")": {
+    "prefix": "--font-family-sans",
+    "body": [
+      "var(--font-family-sans)"
+    ],
+    "description": "Font Family Sans (ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\")"
+  },
+  "Font Family Serif (ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif)": {
+    "prefix": "--font-family-serif",
+    "body": [
+      "var(--font-family-serif)"
+    ],
+    "description": "Font Family Serif (ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif)"
+  },
+  "Font Family Mono (ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace)": {
+    "prefix": "--font-family-mono",
+    "body": [
+      "var(--font-family-mono)"
+    ],
+    "description": "Font Family Mono (ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace)"
+  },
+  "Font Weight Thin (100)": {
+    "prefix": "--font-weight-thin",
+    "body": [
+      "var(--font-weight-thin)"
+    ],
+    "description": "Font Weight Thin (100)"
+  },
+  "Font Weight Extralight (200)": {
+    "prefix": "--font-weight-extralight",
+    "body": [
+      "var(--font-weight-extralight)"
+    ],
+    "description": "Font Weight Extralight (200)"
+  },
+  "Font Weight Light (300)": {
+    "prefix": "--font-weight-light",
+    "body": [
+      "var(--font-weight-light)"
+    ],
+    "description": "Font Weight Light (300)"
+  },
+  "Font Weight Normal (400)": {
+    "prefix": "--font-weight-normal",
+    "body": [
+      "var(--font-weight-normal)"
+    ],
+    "description": "Font Weight Normal (400)"
+  },
+  "Font Weight medium (500)": {
+    "prefix": "--font-weight-medium",
+    "body": [
+      "var(--font-weight-medium)"
+    ],
+    "description": "Font Weight medium (500)"
+  },
+  "Font Weight Semibold (600)": {
+    "prefix": "--font-weight-semibold",
+    "body": [
+      "var(--font-weight-semibold)"
+    ],
+    "description": "Font Weight Semibold (600)"
+  },
+  "Font Weight Bold (700)": {
+    "prefix": "--font-weight-bold",
+    "body": [
+      "var(--font-weight-bold)"
+    ],
+    "description": "Font Weight Bold (700)"
+  },
+  "Font Weight Extrabold (800)": {
+    "prefix": "--font-weight-extrabold",
+    "body": [
+      "var(--font-weight-extrabold)"
+    ],
+    "description": "Font Weight Extrabold (800)"
+  },
+  "Font Weight Black (900)": {
+    "prefix": "--font-weight-black",
+    "body": [
+      "var(--font-weight-black)"
+    ],
+    "description": "Font Weight Black (900)"
+  },
+  "Font Size 0 (0.75rem)": {
+    "prefix": "--font-size-0",
+    "body": [
+      "var(--font-size-0)"
+    ],
+    "description": "Font Size 0 (0.75rem)"
+  },
+  "Font Size 1 (0.875rem)": {
+    "prefix": "--font-size-1",
+    "body": [
+      "var(--font-size-1)"
+    ],
+    "description": "Font Size 1 (0.875rem)"
+  },
+  "Font Size 2 (1rem)": {
+    "prefix": "--font-size-2",
+    "body": [
+      "var(--font-size-2)"
+    ],
+    "description": "Font Size 2 (1rem)"
+  },
+  "Font Size 3 (1.125rem)": {
+    "prefix": "--font-size-3",
+    "body": [
+      "var(--font-size-3)"
+    ],
+    "description": "Font Size 3 (1.125rem)"
+  },
+  "Font Size 4 (1.25rem)": {
+    "prefix": "--font-size-4",
+    "body": [
+      "var(--font-size-4)"
+    ],
+    "description": "Font Size 4 (1.25rem)"
+  },
+  "Font Size 5 (1.5rem)": {
+    "prefix": "--font-size-5",
+    "body": [
+      "var(--font-size-5)"
+    ],
+    "description": "Font Size 5 (1.5rem)"
+  },
+  "Font Size 6 (1.875rem)": {
+    "prefix": "--font-size-6",
+    "body": [
+      "var(--font-size-6)"
+    ],
+    "description": "Font Size 6 (1.875rem)"
+  },
+  "Font Size 7 (2.25rem)": {
+    "prefix": "--font-size-7",
+    "body": [
+      "var(--font-size-7)"
+    ],
+    "description": "Font Size 7 (2.25rem)"
+  },
+  "Font Size 8 (3rem)": {
+    "prefix": "--font-size-8",
+    "body": [
+      "var(--font-size-8)"
+    ],
+    "description": "Font Size 8 (3rem)"
+  },
+  "Font Size 9 (3.75rem)": {
+    "prefix": "--font-size-9",
+    "body": [
+      "var(--font-size-9)"
+    ],
+    "description": "Font Size 9 (3.75rem)"
+  },
+  "Font Size 1 (4.5rem)": {
+    "prefix": "--font-size-10",
+    "body": [
+      "var(--font-size-10)"
+    ],
+    "description": "Font Size 1 (4.5rem)"
+  },
+  "Font Size 1 (6rem)": {
+    "prefix": "--font-size-11",
+    "body": [
+      "var(--font-size-11)"
+    ],
+    "description": "Font Size 1 (6rem)"
+  },
+  "Font Size 1 (8rem)": {
+    "prefix": "--font-size-12",
+    "body": [
+      "var(--font-size-12)"
+    ],
+    "description": "Font Size 1 (8rem)"
+  },
+  "Line Height 0 (1rem)": {
+    "prefix": "--line-height-0",
+    "body": [
+      "var(--line-height-0)"
+    ],
+    "description": "Line Height 0 (1rem)"
+  },
+  "Line Height 1 (1.25rem)": {
+    "prefix": "--line-height-1",
+    "body": [
+      "var(--line-height-1)"
+    ],
+    "description": "Line Height 1 (1.25rem)"
+  },
+  "Line Height 2 (1.5rem)": {
+    "prefix": "--line-height-2",
+    "body": [
+      "var(--line-height-2)"
+    ],
+    "description": "Line Height 2 (1.5rem)"
+  },
+  "Line Height 3 (1.75rem)": {
+    "prefix": "--line-height-3",
+    "body": [
+      "var(--line-height-3)"
+    ],
+    "description": "Line Height 3 (1.75rem)"
+  },
+  "Line Height 4 (1.75rem)": {
+    "prefix": "--line-height-4",
+    "body": [
+      "var(--line-height-4)"
+    ],
+    "description": "Line Height 4 (1.75rem)"
+  },
+  "Line Height 5 (2rem)": {
+    "prefix": "--line-height-5",
+    "body": [
+      "var(--line-height-5)"
+    ],
+    "description": "Line Height 5 (2rem)"
+  },
+  "Line Height 6 (2.25rem)": {
+    "prefix": "--line-height-6",
+    "body": [
+      "var(--line-height-6)"
+    ],
+    "description": "Line Height 6 (2.25rem)"
+  },
+  "Line Height 7 (2.5rem)": {
+    "prefix": "--line-height-7",
+    "body": [
+      "var(--line-height-7)"
+    ],
+    "description": "Line Height 7 (2.5rem)"
+  },
+  "Line Height 8 (1)": {
+    "prefix": "--line-height-8",
+    "body": [
+      "var(--line-height-8)"
+    ],
+    "description": "Line Height 8 (1)"
+  },
+  "Line Height 9 (1)": {
+    "prefix": "--line-height-9",
+    "body": [
+      "var(--line-height-9)"
+    ],
+    "description": "Line Height 9 (1)"
+  },
+  "Line Height 1 (1)": {
+    "prefix": "--line-height-12",
+    "body": [
+      "var(--line-height-12)"
+    ],
+    "description": "Line Height 1 (1)"
+  },
+  "Letter Spacing 0 (-0.05em)": {
+    "prefix": "--letter-spacing-0",
+    "body": [
+      "var(--letter-spacing-0)"
+    ],
+    "description": "Letter Spacing 0 (-0.05em)"
+  },
+  "Letter Spacing 0 (-0.025em)": {
+    "prefix": "--letter-spacing-1",
+    "body": [
+      "var(--letter-spacing-1)"
+    ],
+    "description": "Letter Spacing 0 (-0.025em)"
+  },
+  "Letter Spacing 0 (0em)": {
+    "prefix": "--letter-spacing-2",
+    "body": [
+      "var(--letter-spacing-2)"
+    ],
+    "description": "Letter Spacing 0 (0em)"
+  },
+  "Letter Spacing 0 (0.025em)": {
+    "prefix": "--letter-spacing-3",
+    "body": [
+      "var(--letter-spacing-3)"
+    ],
+    "description": "Letter Spacing 0 (0.025em)"
+  },
+  "Letter Spacing 0 (0.05em)": {
+    "prefix": "--letter-spacing-4",
+    "body": [
+      "var(--letter-spacing-4)"
+    ],
+    "description": "Letter Spacing 0 (0.05em)"
+  },
+  "Letter Spacing 0 (0.1em)": {
+    "prefix": "--letter-spacing-5",
+    "body": [
+      "var(--letter-spacing-5)"
+    ],
+    "description": "Letter Spacing 0 (0.1em)"
+  },
+  "Color White (#ffffff)": {
+    "prefix": "--white",
+    "body": [
+      "var(--white)"
+    ],
+    "description": "Color White (#ffffff)"
+  },
+  "Color Gray 50 (#f9fafb)": {
+    "prefix": "--gray-50",
+    "body": [
+      "var(--gray-50)"
+    ],
+    "description": "Color Gray 50 (#f9fafb)"
+  },
+  "Color Gray 100 (#f3f4f6)": {
+    "prefix": "--gray-100",
+    "body": [
+      "var(--gray-100)"
+    ],
+    "description": "Color Gray 100 (#f3f4f6)"
+  },
+  "Color Gray 200 (#e5e7eb)": {
+    "prefix": "--gray-200",
+    "body": [
+      "var(--gray-200)"
+    ],
+    "description": "Color Gray 200 (#e5e7eb)"
+  },
+  "Color Gray 300 (#d1d5db)": {
+    "prefix": "--gray-300",
+    "body": [
+      "var(--gray-300)"
+    ],
+    "description": "Color Gray 300 (#d1d5db)"
+  },
+  "Color Gray 400 (#9ca3af)": {
+    "prefix": "--gray-400",
+    "body": [
+      "var(--gray-400)"
+    ],
+    "description": "Color Gray 400 (#9ca3af)"
+  },
+  "Color Gray 500 (#6b7280)": {
+    "prefix": "--gray-500",
+    "body": [
+      "var(--gray-500)"
+    ],
+    "description": "Color Gray 500 (#6b7280)"
+  },
+  "Color Gray 600 (#4b5563)": {
+    "prefix": "--gray-600",
+    "body": [
+      "var(--gray-600)"
+    ],
+    "description": "Color Gray 600 (#4b5563)"
+  },
+  "Color Gray 700 (#374151)": {
+    "prefix": "--gray-700",
+    "body": [
+      "var(--gray-700)"
+    ],
+    "description": "Color Gray 700 (#374151)"
+  },
+  "Color Gray 800 (#1f2937)": {
+    "prefix": "--gray-800",
+    "body": [
+      "var(--gray-800)"
+    ],
+    "description": "Color Gray 800 (#1f2937)"
+  },
+  "Color Gray 900 (#111827)": {
+    "prefix": "--gray-900",
+    "body": [
+      "var(--gray-900)"
+    ],
+    "description": "Color Gray 900 (#111827)"
+  },
+  "Color Black (#000000)": {
+    "prefix": "--black",
+    "body": [
+      "var(--black)"
+    ],
+    "description": "Color Black (#000000)"
+  },
+  "Color Amber 50 (#fffbeb)": {
+    "prefix": "--amber-50",
+    "body": [
+      "var(--amber-50)"
+    ],
+    "description": "Color Amber 50 (#fffbeb)"
+  },
+  "Color Amber 100 (#fef3c7)": {
+    "prefix": "--amber-100",
+    "body": [
+      "var(--amber-100)"
+    ],
+    "description": "Color Amber 100 (#fef3c7)"
+  },
+  "Color Amber 200 (#fde68a)": {
+    "prefix": "--amber-200",
+    "body": [
+      "var(--amber-200)"
+    ],
+    "description": "Color Amber 200 (#fde68a)"
+  },
+  "Color Amber 300 (#fcd34d)": {
+    "prefix": "--amber-300",
+    "body": [
+      "var(--amber-300)"
+    ],
+    "description": "Color Amber 300 (#fcd34d)"
+  },
+  "Color Amber 400 (#fbbf24)": {
+    "prefix": "--amber-400",
+    "body": [
+      "var(--amber-400)"
+    ],
+    "description": "Color Amber 400 (#fbbf24)"
+  },
+  "Color Amber 500 (#f59e0b)": {
+    "prefix": "--amber-500",
+    "body": [
+      "var(--amber-500)"
+    ],
+    "description": "Color Amber 500 (#f59e0b)"
+  },
+  "Color Amber 600 (#d97706)": {
+    "prefix": "--amber-600",
+    "body": [
+      "var(--amber-600)"
+    ],
+    "description": "Color Amber 600 (#d97706)"
+  },
+  "Color Amber 700 (#b45309)": {
+    "prefix": "--amber-700",
+    "body": [
+      "var(--amber-700)"
+    ],
+    "description": "Color Amber 700 (#b45309)"
+  },
+  "Color Amber 800 (#92400e)": {
+    "prefix": "--amber-800",
+    "body": [
+      "var(--amber-800)"
+    ],
+    "description": "Color Amber 800 (#92400e)"
+  },
+  "Color Amber 900 (#78350f)": {
+    "prefix": "--amber-900",
+    "body": [
+      "var(--amber-900)"
+    ],
+    "description": "Color Amber 900 (#78350f)"
+  },
+  "Color Blue 50 (#eff6ff)": {
+    "prefix": "--blue-50",
+    "body": [
+      "var(--blue-50)"
+    ],
+    "description": "Color Blue 50 (#eff6ff)"
+  },
+  "Color Blue 100 (#dbeafe)": {
+    "prefix": "--blue-100",
+    "body": [
+      "var(--blue-100)"
+    ],
+    "description": "Color Blue 100 (#dbeafe)"
+  },
+  "Color Blue 200 (#bfdbfe)": {
+    "prefix": "--blue-200",
+    "body": [
+      "var(--blue-200)"
+    ],
+    "description": "Color Blue 200 (#bfdbfe)"
+  },
+  "Color Blue 300 (#93c5fd)": {
+    "prefix": "--blue-300",
+    "body": [
+      "var(--blue-300)"
+    ],
+    "description": "Color Blue 300 (#93c5fd)"
+  },
+  "Color Blue 400 (#60a5fa)": {
+    "prefix": "--blue-400",
+    "body": [
+      "var(--blue-400)"
+    ],
+    "description": "Color Blue 400 (#60a5fa)"
+  },
+  "Color Blue 500 (#3b82f6)": {
+    "prefix": "--blue-500",
+    "body": [
+      "var(--blue-500)"
+    ],
+    "description": "Color Blue 500 (#3b82f6)"
+  },
+  "Color Blue 600 (#2563eb)": {
+    "prefix": "--blue-600",
+    "body": [
+      "var(--blue-600)"
+    ],
+    "description": "Color Blue 600 (#2563eb)"
+  },
+  "Color Blue 700 (#1d4ed8)": {
+    "prefix": "--blue-700",
+    "body": [
+      "var(--blue-700)"
+    ],
+    "description": "Color Blue 700 (#1d4ed8)"
+  },
+  "Color Blue 800 (#1e40af)": {
+    "prefix": "--blue-800",
+    "body": [
+      "var(--blue-800)"
+    ],
+    "description": "Color Blue 800 (#1e40af)"
+  },
+  "Color Blue 900 (#1e3a8a)": {
+    "prefix": "--blue-900",
+    "body": [
+      "var(--blue-900)"
+    ],
+    "description": "Color Blue 900 (#1e3a8a)"
+  },
+  "Color Emerald 50 (#ecfdf5)": {
+    "prefix": "--emerald-50",
+    "body": [
+      "var(--emerald-50)"
+    ],
+    "description": "Color Emerald 50 (#ecfdf5)"
+  },
+  "Color Emerald 100 (#d1fae5)": {
+    "prefix": "--emerald-100",
+    "body": [
+      "var(--emerald-100)"
+    ],
+    "description": "Color Emerald 100 (#d1fae5)"
+  },
+  "Color Emerald 200 (#a7f3d0)": {
+    "prefix": "--emerald-200",
+    "body": [
+      "var(--emerald-200)"
+    ],
+    "description": "Color Emerald 200 (#a7f3d0)"
+  },
+  "Color Emerald 300 (#6ee7b7)": {
+    "prefix": "--emerald-300",
+    "body": [
+      "var(--emerald-300)"
+    ],
+    "description": "Color Emerald 300 (#6ee7b7)"
+  },
+  "Color Emerald 400 (#34d399)": {
+    "prefix": "--emerald-400",
+    "body": [
+      "var(--emerald-400)"
+    ],
+    "description": "Color Emerald 400 (#34d399)"
+  },
+  "Color Emerald 500 (#10b981)": {
+    "prefix": "--emerald-500",
+    "body": [
+      "var(--emerald-500)"
+    ],
+    "description": "Color Emerald 500 (#10b981)"
+  },
+  "Color Emerald 600 (#059669)": {
+    "prefix": "--emerald-600",
+    "body": [
+      "var(--emerald-600)"
+    ],
+    "description": "Color Emerald 600 (#059669)"
+  },
+  "Color Emerald 700 (#047857)": {
+    "prefix": "--emerald-700",
+    "body": [
+      "var(--emerald-700)"
+    ],
+    "description": "Color Emerald 700 (#047857)"
+  },
+  "Color Emerald 800 (#065f46)": {
+    "prefix": "--emerald-800",
+    "body": [
+      "var(--emerald-800)"
+    ],
+    "description": "Color Emerald 800 (#065f46)"
+  },
+  "Color Emerald 900 (#064e3b)": {
+    "prefix": "--emerald-900",
+    "body": [
+      "var(--emerald-900)"
+    ],
+    "description": "Color Emerald 900 (#064e3b)"
+  },
+  "Color Indigo 50 (#eef2ff)": {
+    "prefix": "--indigo-50",
+    "body": [
+      "var(--indigo-50)"
+    ],
+    "description": "Color Indigo 50 (#eef2ff)"
+  },
+  "Color Indigo 100 (#e0e7ff)": {
+    "prefix": "--indigo-100",
+    "body": [
+      "var(--indigo-100)"
+    ],
+    "description": "Color Indigo 100 (#e0e7ff)"
+  },
+  "Color Indigo 200 (#c7d2fe)": {
+    "prefix": "--indigo-200",
+    "body": [
+      "var(--indigo-200)"
+    ],
+    "description": "Color Indigo 200 (#c7d2fe)"
+  },
+  "Color Indigo 300 (#a5b4fc)": {
+    "prefix": "--indigo-300",
+    "body": [
+      "var(--indigo-300)"
+    ],
+    "description": "Color Indigo 300 (#a5b4fc)"
+  },
+  "Color Indigo 400 (#818cf8)": {
+    "prefix": "--indigo-400",
+    "body": [
+      "var(--indigo-400)"
+    ],
+    "description": "Color Indigo 400 (#818cf8)"
+  },
+  "Color Indigo 500 (#6366f1)": {
+    "prefix": "--indigo-500",
+    "body": [
+      "var(--indigo-500)"
+    ],
+    "description": "Color Indigo 500 (#6366f1)"
+  },
+  "Color Indigo 600 (#4f46e5)": {
+    "prefix": "--indigo-600",
+    "body": [
+      "var(--indigo-600)"
+    ],
+    "description": "Color Indigo 600 (#4f46e5)"
+  },
+  "Color Indigo 700 (#4338ca)": {
+    "prefix": "--indigo-700",
+    "body": [
+      "var(--indigo-700)"
+    ],
+    "description": "Color Indigo 700 (#4338ca)"
+  },
+  "Color Indigo 800 (#3730a3)": {
+    "prefix": "--indigo-800",
+    "body": [
+      "var(--indigo-800)"
+    ],
+    "description": "Color Indigo 800 (#3730a3)"
+  },
+  "Color Indigo 900 (#312e81)": {
+    "prefix": "--indigo-900",
+    "body": [
+      "var(--indigo-900)"
+    ],
+    "description": "Color Indigo 900 (#312e81)"
+  },
+  "Color Pink 50 (#fdf2f8)": {
+    "prefix": "--pink-50",
+    "body": [
+      "var(--pink-50)"
+    ],
+    "description": "Color Pink 50 (#fdf2f8)"
+  },
+  "Color Pink 100 (#fce7f3)": {
+    "prefix": "--pink-100",
+    "body": [
+      "var(--pink-100)"
+    ],
+    "description": "Color Pink 100 (#fce7f3)"
+  },
+  "Color Pink 200 (#fbcfe8)": {
+    "prefix": "--pink-200",
+    "body": [
+      "var(--pink-200)"
+    ],
+    "description": "Color Pink 200 (#fbcfe8)"
+  },
+  "Color Pink 300 (#f9a8d4)": {
+    "prefix": "--pink-300",
+    "body": [
+      "var(--pink-300)"
+    ],
+    "description": "Color Pink 300 (#f9a8d4)"
+  },
+  "Color Pink 400 (#f472b6)": {
+    "prefix": "--pink-400",
+    "body": [
+      "var(--pink-400)"
+    ],
+    "description": "Color Pink 400 (#f472b6)"
+  },
+  "Color Pink 500 (#ec4899)": {
+    "prefix": "--pink-500",
+    "body": [
+      "var(--pink-500)"
+    ],
+    "description": "Color Pink 500 (#ec4899)"
+  },
+  "Color Pink 600 (#db2777)": {
+    "prefix": "--pink-600",
+    "body": [
+      "var(--pink-600)"
+    ],
+    "description": "Color Pink 600 (#db2777)"
+  },
+  "Color Pink 700 (#be185d)": {
+    "prefix": "--pink-700",
+    "body": [
+      "var(--pink-700)"
+    ],
+    "description": "Color Pink 700 (#be185d)"
+  },
+  "Color Pink 800 (#9d174d)": {
+    "prefix": "--pink-800",
+    "body": [
+      "var(--pink-800)"
+    ],
+    "description": "Color Pink 800 (#9d174d)"
+  },
+  "Color Pink 900 (#831843)": {
+    "prefix": "--pink-900",
+    "body": [
+      "var(--pink-900)"
+    ],
+    "description": "Color Pink 900 (#831843)"
+  },
+  "Color Red 50 (#fef2f2)": {
+    "prefix": "--red-50",
+    "body": [
+      "var(--red-50)"
+    ],
+    "description": "Color Red 50 (#fef2f2)"
+  },
+  "Color Red 100 (#fee2e2)": {
+    "prefix": "--red-100",
+    "body": [
+      "var(--red-100)"
+    ],
+    "description": "Color Red 100 (#fee2e2)"
+  },
+  "Color Red 200 (#fecaca)": {
+    "prefix": "--red-200",
+    "body": [
+      "var(--red-200)"
+    ],
+    "description": "Color Red 200 (#fecaca)"
+  },
+  "Color Red 300 (#fca5a5)": {
+    "prefix": "--red-300",
+    "body": [
+      "var(--red-300)"
+    ],
+    "description": "Color Red 300 (#fca5a5)"
+  },
+  "Color Red 400 (#f87171)": {
+    "prefix": "--red-400",
+    "body": [
+      "var(--red-400)"
+    ],
+    "description": "Color Red 400 (#f87171)"
+  },
+  "Color Red 500 (#ef4444)": {
+    "prefix": "--red-500",
+    "body": [
+      "var(--red-500)"
+    ],
+    "description": "Color Red 500 (#ef4444)"
+  },
+  "Color Red 600 (#dc2626)": {
+    "prefix": "--red-600",
+    "body": [
+      "var(--red-600)"
+    ],
+    "description": "Color Red 600 (#dc2626)"
+  },
+  "Color Red 700 (#b91c1c)": {
+    "prefix": "--red-700",
+    "body": [
+      "var(--red-700)"
+    ],
+    "description": "Color Red 700 (#b91c1c)"
+  },
+  "Color Red 800 (#991b1b)": {
+    "prefix": "--red-800",
+    "body": [
+      "var(--red-800)"
+    ],
+    "description": "Color Red 800 (#991b1b)"
+  },
+  "Color Red 900 (#7f1d1d)": {
+    "prefix": "--red-900",
+    "body": [
+      "var(--red-900)"
+    ],
+    "description": "Color Red 900 (#7f1d1d)"
+  },
+  "Color Violet 50 (#f5f3ff)": {
+    "prefix": "--violet-50",
+    "body": [
+      "var(--violet-50)"
+    ],
+    "description": "Color Violet 50 (#f5f3ff)"
+  },
+  "Color Violet 100 (#ede9fe)": {
+    "prefix": "--violet-100",
+    "body": [
+      "var(--violet-100)"
+    ],
+    "description": "Color Violet 100 (#ede9fe)"
+  },
+  "Color Violet 200 (#ddd6fe)": {
+    "prefix": "--violet-200",
+    "body": [
+      "var(--violet-200)"
+    ],
+    "description": "Color Violet 200 (#ddd6fe)"
+  },
+  "Color Violet 300 (#c4b5fd)": {
+    "prefix": "--violet-300",
+    "body": [
+      "var(--violet-300)"
+    ],
+    "description": "Color Violet 300 (#c4b5fd)"
+  },
+  "Color Violet 400 (#a78bfa)": {
+    "prefix": "--violet-400",
+    "body": [
+      "var(--violet-400)"
+    ],
+    "description": "Color Violet 400 (#a78bfa)"
+  },
+  "Color Violet 500 (#8b5cf6)": {
+    "prefix": "--violet-500",
+    "body": [
+      "var(--violet-500)"
+    ],
+    "description": "Color Violet 500 (#8b5cf6)"
+  },
+  "Color Violet 600 (#7c3aed)": {
+    "prefix": "--violet-600",
+    "body": [
+      "var(--violet-600)"
+    ],
+    "description": "Color Violet 600 (#7c3aed)"
+  },
+  "Color Violet 700 (#6d28d9)": {
+    "prefix": "--violet-700",
+    "body": [
+      "var(--violet-700)"
+    ],
+    "description": "Color Violet 700 (#6d28d9)"
+  },
+  "Color Violet 800 (#5b21b6)": {
+    "prefix": "--violet-800",
+    "body": [
+      "var(--violet-800)"
+    ],
+    "description": "Color Violet 800 (#5b21b6)"
+  },
+  "Color Violet 900 (#4c1d95)": {
+    "prefix": "--violet-900",
+    "body": [
+      "var(--violet-900)"
+    ],
+    "description": "Color Violet 900 (#4c1d95)"
+  }
+}

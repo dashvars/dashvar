@@ -1,6 +1,6 @@
 {
-  "name": "tailvars",
-  "version": "1.0.0",
+  "name": "dashvar",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
-    "build": "ts-node src/tailvars/index.ts && gulp build"
+    "build": "ts-node src/dashvar/index.ts && gulp build"
   },
   "author": "",
   "license": "ISC",
