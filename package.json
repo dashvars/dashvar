@@ -9,7 +9,8 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
-    "build": "rm -rf dist lib && ts-node src/dashvar/index.ts && gulp build && tsc"
+    "build": "rm -rf dist lib && ts-node src/dashvar/index.ts && gulp build && tsc",
+    "prepublishOnly": "npm run build"
   },
   "author": "",
   "license": "ISC",
