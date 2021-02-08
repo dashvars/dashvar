@@ -60,3 +60,11 @@ You can override any of the variables with your own if you need to:
 
 Please, feel free to contribute to the project. Any contributions are absolutely welcomed. Together, we can
 build a great and simple library for the long run.
+
+# Donations
+
+Dashvar aims to provide a simple design system to accelerate and facilitate the rapid development of user interfaces.
+
+It will always be Open Source. However, in order to maintain the project, we'd need to find a sustainable income stream, mostly to cover our time investment to bring this hopefully useful project to you.
+
+We would really appreciate your support. Any donation will make a big difference.
