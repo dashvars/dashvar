@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
-    "build": "ts-node src/dashvar/index.ts && gulp build"
+    "build": "rm -rf dist lib && ts-node src/dashvar/index.ts && gulp build && tsc"
   },
   "author": "",
   "license": "ISC",
@@ -28,5 +28,9 @@
     "prettier": "^2.2.1",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.3"
-  }
+  },
+  "files": [
+    "lib/**/*",
+    "dist/**/*"
+  ]
 }
