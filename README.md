@@ -4,6 +4,8 @@
 
 CSS variables library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
 
+[Full documentation](https://dashvar.com)
+
 Features:
 
 - [x] Tiny (<4KB uncompressed or <1.5KB gzipped)
