@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 RELEASE_TYPE=$1
 [ -z $RELEASE_TYPE ] && \
     echo "Usage: ./release.sh major|minor|patch" && \
