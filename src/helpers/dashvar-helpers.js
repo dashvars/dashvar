@@ -21,6 +21,7 @@
       document.body.classList.add(c);
     });
   }
+  if (typeof window === "undefined") return;
   window.addEventListener("resize", dashvarMedia);
   window.addEventListener("DOMContentLoaded", function () {
     dashvarMedia();
