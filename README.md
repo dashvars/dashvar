@@ -1,6 +1,6 @@
 # dashvar
 
-[![Build](https://github.com/carlosbaraza/dashvar/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build+and+Deploy%22)
+[![Build](https://github.com/carlosbaraza/dashvar/workflows/Build/badge.svg)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build%22)
 
 CSS variables library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
 
