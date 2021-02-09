@@ -14,6 +14,139 @@ describe("VS Code Snippets", () => {
   it("builds the snippets correctly", () => {
     expect(snippets).toMatchInlineSnapshot(`
       Object {
+        "Border Radius 0 (0px)": Object {
+          "body": Array [
+            "var(--border-radius-0)",
+          ],
+          "description": "Border Radius 0 (0px)",
+          "prefix": "--border-radius-0",
+        },
+        "Border Radius 1 (0.125rem / 2px)": Object {
+          "body": Array [
+            "var(--border-radius-1)",
+          ],
+          "description": "Border Radius 1 (0.125rem / 2px)",
+          "prefix": "--border-radius-1",
+        },
+        "Border Radius 2 (0.25rem / 4px)": Object {
+          "body": Array [
+            "var(--border-radius-2)",
+          ],
+          "description": "Border Radius 2 (0.25rem / 4px)",
+          "prefix": "--border-radius-2",
+        },
+        "Border Radius 3 (0.5rem / 8px)": Object {
+          "body": Array [
+            "var(--border-radius-3)",
+          ],
+          "description": "Border Radius 3 (0.5rem / 8px)",
+          "prefix": "--border-radius-3",
+        },
+        "Border Radius 4 (0.75rem / 12px)": Object {
+          "body": Array [
+            "var(--border-radius-4)",
+          ],
+          "description": "Border Radius 4 (0.75rem / 12px)",
+          "prefix": "--border-radius-4",
+        },
+        "Border Radius 5 (1rem / 16px)": Object {
+          "body": Array [
+            "var(--border-radius-5)",
+          ],
+          "description": "Border Radius 5 (1rem / 16px)",
+          "prefix": "--border-radius-5",
+        },
+        "Border Radius 6 (1.5rem / 24px)": Object {
+          "body": Array [
+            "var(--border-radius-6)",
+          ],
+          "description": "Border Radius 6 (1.5rem / 24px)",
+          "prefix": "--border-radius-6",
+        },
+        "Border Radius 7 (2rem / 32px)": Object {
+          "body": Array [
+            "var(--border-radius-7)",
+          ],
+          "description": "Border Radius 7 (2rem / 32px)",
+          "prefix": "--border-radius-7",
+        },
+        "Border Radius 8 (3rem / 48px)": Object {
+          "body": Array [
+            "var(--border-radius-8)",
+          ],
+          "description": "Border Radius 8 (3rem / 48px)",
+          "prefix": "--border-radius-8",
+        },
+        "Border Radius 9 (4rem / 64px)": Object {
+          "body": Array [
+            "var(--border-radius-9)",
+          ],
+          "description": "Border Radius 9 (4rem / 64px)",
+          "prefix": "--border-radius-9",
+        },
+        "Border Radius Full (9999px)": Object {
+          "body": Array [
+            "var(--border-radius-full)",
+          ],
+          "description": "Border Radius Full (9999px)",
+          "prefix": "--border-radius-full",
+        },
+        "Box Shadow 0 (0 0 #0000)": Object {
+          "body": Array [
+            "var(--box-shadow-0)",
+          ],
+          "description": "Box Shadow 0 (0 0 #0000)",
+          "prefix": "--box-shadow-0",
+        },
+        "Box Shadow 1 (0 1px 2px 0 rgba(0, 0, 0, 0.05))": Object {
+          "body": Array [
+            "var(--box-shadow-1)",
+          ],
+          "description": "Box Shadow 1 (0 1px 2px 0 rgba(0, 0, 0, 0.05))",
+          "prefix": "--box-shadow-1",
+        },
+        "Box Shadow 2 (0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06))": Object {
+          "body": Array [
+            "var(--box-shadow-2)",
+          ],
+          "description": "Box Shadow 2 (0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06))",
+          "prefix": "--box-shadow-2",
+        },
+        "Box Shadow 3 (0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06))": Object {
+          "body": Array [
+            "var(--box-shadow-3)",
+          ],
+          "description": "Box Shadow 3 (0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06))",
+          "prefix": "--box-shadow-3",
+        },
+        "Box Shadow 4 (0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05))": Object {
+          "body": Array [
+            "var(--box-shadow-4)",
+          ],
+          "description": "Box Shadow 4 (0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05))",
+          "prefix": "--box-shadow-4",
+        },
+        "Box Shadow 5 (0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04))": Object {
+          "body": Array [
+            "var(--box-shadow-5)",
+          ],
+          "description": "Box Shadow 5 (0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04))",
+          "prefix": "--box-shadow-5",
+        },
+        "Box Shadow 6 (0 25px 50px -12px rgba(0, 0, 0, 0.25))": Object {
+          "body": Array [
+            "var(--box-shadow-6)",
+          ],
+          "description": "Box Shadow 6 (0 25px 50px -12px rgba(0, 0, 0, 0.25))",
+          "prefix": "--box-shadow-6",
+        },
+        "Box Shadow Inner (inset 0 2px 4px 0 rgba(0, 0, 0, 0.06))": Object {
+          "body": Array [
+            "var(--box-shadow-inner)",
+          ],
+          "description": "Box Shadow Inner (inset 0 2px 4px 0 rgba(0, 0, 0, 0.06))",
+          "prefix": "--box-shadow-inner",
+        },
         "Color Amber 100 (#fef3c7)": Object {
           "body": Array [
             "var(--amber-100)",
@@ -924,250 +1057,138 @@ describe("VS Code Snippets", () => {
           "description": "Opacity 5 (1)",
           "prefix": "--opacity-5",
         },
-        "Size 0 (0px)": Object {
+        "Size 00 (0px)": Object {
           "body": Array [
-            "var(--s-0)",
+            "var(--size-00)",
           ],
-          "description": "Size 0 (0px)",
-          "prefix": "--s-0",
+          "description": "Size 00 (0px)",
+          "prefix": "--size-00",
         },
-        "Size 0.5 (0.125rem / 2px)": Object {
+        "Size 01 (0.125rem / 2px)": Object {
           "body": Array [
-            "var(--s-0-5)",
+            "var(--size-01)",
           ],
-          "description": "Size 0.5 (0.125rem / 2px)",
-          "prefix": "--s-0-5",
+          "description": "Size 01 (0.125rem / 2px)",
+          "prefix": "--size-01",
         },
-        "Size 1 (0.25rem / 4px)": Object {
+        "Size 02 (0.25rem / 4px)": Object {
           "body": Array [
-            "var(--s-1)",
+            "var(--size-02)",
           ],
-          "description": "Size 1 (0.25rem / 4px)",
-          "prefix": "--s-1",
+          "description": "Size 02 (0.25rem / 4px)",
+          "prefix": "--size-02",
         },
-        "Size 1.5 (0.375rem / 6px)": Object {
+        "Size 03 (0.5rem / 8px)": Object {
           "body": Array [
-            "var(--s-1-5)",
+            "var(--size-03)",
           ],
-          "description": "Size 1.5 (0.375rem / 6px)",
-          "prefix": "--s-1-5",
+          "description": "Size 03 (0.5rem / 8px)",
+          "prefix": "--size-03",
         },
-        "Size 10 (2.5rem / 40px)": Object {
+        "Size 04 (0.75rem / 12px)": Object {
           "body": Array [
-            "var(--s-10)",
+            "var(--size-04)",
           ],
-          "description": "Size 10 (2.5rem / 40px)",
-          "prefix": "--s-10",
+          "description": "Size 04 (0.75rem / 12px)",
+          "prefix": "--size-04",
         },
-        "Size 11 (2.75rem / 44px)": Object {
+        "Size 05 (1rem / 16px)": Object {
           "body": Array [
-            "var(--s-11)",
+            "var(--size-05)",
           ],
-          "description": "Size 11 (2.75rem / 44px)",
-          "prefix": "--s-11",
+          "description": "Size 05 (1rem / 16px)",
+          "prefix": "--size-05",
         },
-        "Size 12 (3rem / 48px)": Object {
+        "Size 06 (1.5rem / 24px)": Object {
           "body": Array [
-            "var(--s-12)",
+            "var(--size-06)",
           ],
-          "description": "Size 12 (3rem / 48px)",
-          "prefix": "--s-12",
+          "description": "Size 06 (1.5rem / 24px)",
+          "prefix": "--size-06",
         },
-        "Size 14 (3.5rem / 56px)": Object {
+        "Size 07 (2rem / 32px)": Object {
           "body": Array [
-            "var(--s-14)",
+            "var(--size-07)",
           ],
-          "description": "Size 14 (3.5rem / 56px)",
-          "prefix": "--s-14",
+          "description": "Size 07 (2rem / 32px)",
+          "prefix": "--size-07",
         },
-        "Size 16 (4rem / 64px)": Object {
+        "Size 08 (3rem / 48px)": Object {
           "body": Array [
-            "var(--s-16)",
+            "var(--size-08)",
           ],
-          "description": "Size 16 (4rem / 64px)",
-          "prefix": "--s-16",
+          "description": "Size 08 (3rem / 48px)",
+          "prefix": "--size-08",
         },
-        "Size 1px (1px)": Object {
+        "Size 09 (4rem / 64px)": Object {
           "body": Array [
-            "var(--s-px)",
+            "var(--size-09)",
           ],
-          "description": "Size 1px (1px)",
-          "prefix": "--s-px",
+          "description": "Size 09 (4rem / 64px)",
+          "prefix": "--size-09",
         },
-        "Size 2 (0.5rem / 8px)": Object {
+        "Size 10 (6rem / 96px)": Object {
           "body": Array [
-            "var(--s-2)",
+            "var(--size-10)",
           ],
-          "description": "Size 2 (0.5rem / 8px)",
-          "prefix": "--s-2",
+          "description": "Size 10 (6rem / 96px)",
+          "prefix": "--size-10",
         },
-        "Size 2.5 (0.625rem / 10px)": Object {
+        "Size 11 (8rem / 128px)": Object {
           "body": Array [
-            "var(--s-2-5)",
+            "var(--size-11)",
           ],
-          "description": "Size 2.5 (0.625rem / 10px)",
-          "prefix": "--s-2-5",
+          "description": "Size 11 (8rem / 128px)",
+          "prefix": "--size-11",
         },
-        "Size 20 (5rem / 80px)": Object {
+        "Size 12 (12rem / 192px)": Object {
           "body": Array [
-            "var(--s-20)",
+            "var(--size-12)",
           ],
-          "description": "Size 20 (5rem / 80px)",
-          "prefix": "--s-20",
+          "description": "Size 12 (12rem / 192px)",
+          "prefix": "--size-12",
         },
-        "Size 24 (6rem / 96px)": Object {
+        "Size 13 (16rem / 256px)": Object {
           "body": Array [
-            "var(--s-24)",
+            "var(--size-13)",
           ],
-          "description": "Size 24 (6rem / 96px)",
-          "prefix": "--s-24",
+          "description": "Size 13 (16rem / 256px)",
+          "prefix": "--size-13",
         },
-        "Size 28 (7rem / 112px)": Object {
+        "Size 14 (24rem / 384px)": Object {
           "body": Array [
-            "var(--s-28)",
+            "var(--size-14)",
           ],
-          "description": "Size 28 (7rem / 112px)",
-          "prefix": "--s-28",
+          "description": "Size 14 (24rem / 384px)",
+          "prefix": "--size-14",
         },
-        "Size 3 (0.75rem / 12px)": Object {
+        "Size 15 (32rem / 512px)": Object {
           "body": Array [
-            "var(--s-3)",
+            "var(--size-15)",
           ],
-          "description": "Size 3 (0.75rem / 12px)",
-          "prefix": "--s-3",
+          "description": "Size 15 (32rem / 512px)",
+          "prefix": "--size-15",
         },
-        "Size 3.5 (0.875rem / 14px)": Object {
+        "Size 16 (48rem / 768px)": Object {
           "body": Array [
-            "var(--s-3-5)",
+            "var(--size-16)",
           ],
-          "description": "Size 3.5 (0.875rem / 14px)",
-          "prefix": "--s-3-5",
+          "description": "Size 16 (48rem / 768px)",
+          "prefix": "--size-16",
         },
-        "Size 32 (8rem / 128px)": Object {
+        "Size 17 (64rem / 1024px)": Object {
           "body": Array [
-            "var(--s-32)",
+            "var(--size-17)",
           ],
-          "description": "Size 32 (8rem / 128px)",
-          "prefix": "--s-32",
+          "description": "Size 17 (64rem / 1024px)",
+          "prefix": "--size-17",
         },
-        "Size 36 (9rem / 144px)": Object {
+        "Size 18 (90rem / 1440px)": Object {
           "body": Array [
-            "var(--s-36)",
+            "var(--size-18)",
           ],
-          "description": "Size 36 (9rem / 144px)",
-          "prefix": "--s-36",
-        },
-        "Size 4 (1rem / 16px)": Object {
-          "body": Array [
-            "var(--s-4)",
-          ],
-          "description": "Size 4 (1rem / 16px)",
-          "prefix": "--s-4",
-        },
-        "Size 40 (10rem / 160px)": Object {
-          "body": Array [
-            "var(--s-40)",
-          ],
-          "description": "Size 40 (10rem / 160px)",
-          "prefix": "--s-40",
-        },
-        "Size 44 (11rem / 176px)": Object {
-          "body": Array [
-            "var(--s-44)",
-          ],
-          "description": "Size 44 (11rem / 176px)",
-          "prefix": "--s-44",
-        },
-        "Size 48 (12rem / 192px)": Object {
-          "body": Array [
-            "var(--s-48)",
-          ],
-          "description": "Size 48 (12rem / 192px)",
-          "prefix": "--s-48",
-        },
-        "Size 5 (1.25rem / 20px)": Object {
-          "body": Array [
-            "var(--s-5)",
-          ],
-          "description": "Size 5 (1.25rem / 20px)",
-          "prefix": "--s-5",
-        },
-        "Size 52 (13rem / 208px)": Object {
-          "body": Array [
-            "var(--s-52)",
-          ],
-          "description": "Size 52 (13rem / 208px)",
-          "prefix": "--s-52",
-        },
-        "Size 56 (14rem / 224px)": Object {
-          "body": Array [
-            "var(--s-56)",
-          ],
-          "description": "Size 56 (14rem / 224px)",
-          "prefix": "--s-56",
-        },
-        "Size 6 (1.5rem / 24px)": Object {
-          "body": Array [
-            "var(--s-6)",
-          ],
-          "description": "Size 6 (1.5rem / 24px)",
-          "prefix": "--s-6",
-        },
-        "Size 60 (15rem / 240px)": Object {
-          "body": Array [
-            "var(--s-60)",
-          ],
-          "description": "Size 60 (15rem / 240px)",
-          "prefix": "--s-60",
-        },
-        "Size 64 (16rem / 256px)": Object {
-          "body": Array [
-            "var(--s-64)",
-          ],
-          "description": "Size 64 (16rem / 256px)",
-          "prefix": "--s-64",
-        },
-        "Size 7 (1.75rem / 28px)": Object {
-          "body": Array [
-            "var(--s-7)",
-          ],
-          "description": "Size 7 (1.75rem / 28px)",
-          "prefix": "--s-7",
-        },
-        "Size 72 (18rem / 288px)": Object {
-          "body": Array [
-            "var(--s-72)",
-          ],
-          "description": "Size 72 (18rem / 288px)",
-          "prefix": "--s-72",
-        },
-        "Size 8 (2rem / 32px)": Object {
-          "body": Array [
-            "var(--s-8)",
-          ],
-          "description": "Size 8 (2rem / 32px)",
-          "prefix": "--s-8",
-        },
-        "Size 80 (20rem / 320px)": Object {
-          "body": Array [
-            "var(--s-80)",
-          ],
-          "description": "Size 80 (20rem / 320px)",
-          "prefix": "--s-80",
-        },
-        "Size 9 (2.25rem / 36px)": Object {
-          "body": Array [
-            "var(--s-9)",
-          ],
-          "description": "Size 9 (2.25rem / 36px)",
-          "prefix": "--s-9",
-        },
-        "Size 96 (24rem / 384px)": Object {
-          "body": Array [
-            "var(--s-96)",
-          ],
-          "description": "Size 96 (24rem / 384px)",
-          "prefix": "--s-96",
+          "description": "Size 18 (90rem / 1440px)",
+          "prefix": "--size-18",
         },
       }
     `);
