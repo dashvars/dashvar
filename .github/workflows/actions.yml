@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build
 on:
   push:
     branches:
@@ -12,17 +12,14 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Install and Build 🔧
+      - name: Install Dependencies
         run: |
-          cd docs
           npm install
+      
+      - name: Test
+        run: |
+          npm run test
+      
+      - name: Build 🔧
+        run: |
           npm run build
-          npm run export
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.7.1
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: docs/out # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
