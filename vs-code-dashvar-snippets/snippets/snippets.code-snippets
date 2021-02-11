@@ -265,6 +265,139 @@
     ],
     "description": "Border Radius Full (9999px)"
   },
+  "Border Width 0 (0px)": {
+    "prefix": "--border-width-0",
+    "body": [
+      "var(--border-width-0)"
+    ],
+    "description": "Border Width 0 (0px)"
+  },
+  "Border Width 1 (1px)": {
+    "prefix": "--border-width-1",
+    "body": [
+      "var(--border-width-1)"
+    ],
+    "description": "Border Width 1 (1px)"
+  },
+  "Border Width 2 (0.125rem / 2px)": {
+    "prefix": "--border-width-2",
+    "body": [
+      "var(--border-width-2)"
+    ],
+    "description": "Border Width 2 (0.125rem / 2px)"
+  },
+  "Border Width 3 (0.25rem / 4px)": {
+    "prefix": "--border-width-3",
+    "body": [
+      "var(--border-width-3)"
+    ],
+    "description": "Border Width 3 (0.25rem / 4px)"
+  },
+  "Border Width 4 (0.5rem / 8px)": {
+    "prefix": "--border-width-4",
+    "body": [
+      "var(--border-width-4)"
+    ],
+    "description": "Border Width 4 (0.5rem / 8px)"
+  },
+  "Border Width 5 (0.75rem / 12px)": {
+    "prefix": "--border-width-5",
+    "body": [
+      "var(--border-width-5)"
+    ],
+    "description": "Border Width 5 (0.75rem / 12px)"
+  },
+  "Border Width 6 (1rem / 16px)": {
+    "prefix": "--border-width-6",
+    "body": [
+      "var(--border-width-6)"
+    ],
+    "description": "Border Width 6 (1rem / 16px)"
+  },
+  "Z-Index 0 (0)": {
+    "prefix": "--z-index-0",
+    "body": [
+      "var(--z-index-0)"
+    ],
+    "description": "Z-Index 0 (0)"
+  },
+  "Z-Index 1 (10)": {
+    "prefix": "--z-index-1",
+    "body": [
+      "var(--z-index-1)"
+    ],
+    "description": "Z-Index 1 (10)"
+  },
+  "Z-Index 2 (20)": {
+    "prefix": "--z-index-2",
+    "body": [
+      "var(--z-index-2)"
+    ],
+    "description": "Z-Index 2 (20)"
+  },
+  "Z-Index 3 (30)": {
+    "prefix": "--z-index-3",
+    "body": [
+      "var(--z-index-3)"
+    ],
+    "description": "Z-Index 3 (30)"
+  },
+  "Z-Index 4 (40)": {
+    "prefix": "--z-index-4",
+    "body": [
+      "var(--z-index-4)"
+    ],
+    "description": "Z-Index 4 (40)"
+  },
+  "Z-Index 5 (50)": {
+    "prefix": "--z-index-5",
+    "body": [
+      "var(--z-index-5)"
+    ],
+    "description": "Z-Index 5 (50)"
+  },
+  "Outline None (2px solid transparent)": {
+    "prefix": "--outline-none",
+    "body": [
+      "var(--outline-none)"
+    ],
+    "description": "Outline None (2px solid transparent)"
+  },
+  "Outline White (2px dotted white)": {
+    "prefix": "--outline-white",
+    "body": [
+      "var(--outline-white)"
+    ],
+    "description": "Outline White (2px dotted white)"
+  },
+  "Outline Black (2px dotted black)": {
+    "prefix": "--outline-black",
+    "body": [
+      "var(--outline-black)"
+    ],
+    "description": "Outline Black (2px dotted black)"
+  },
+  "Outline Offset 0 (0px)": {
+    "prefix": "--outline-offset-0",
+    "body": [
+      "var(--outline-offset-0)"
+    ],
+    "description": "Outline Offset 0 (0px)"
+  },
+  "Outline Offset 1 (2px)": {
+    "prefix": "--outline-offset-1",
+    "body": [
+      "var(--outline-offset-1)"
+    ],
+    "description": "Outline Offset 1 (2px)"
+  },
+  "Outline Offset 2 (4px)": {
+    "prefix": "--outline-offset-2",
+    "body": [
+      "var(--outline-offset-2)"
+    ],
+    "description": "Outline Offset 2 (4px)"
+  },
   "Opacity 0 (0)": {
     "prefix": "--opacity-0",
     "body": [
@@ -1174,5 +1307,124 @@
       "var(--violet-900)"
     ],
     "description": "Color Violet 900 (#4c1d95)"
+  },
+  "Transition Delay 0 (0.15s)": {
+    "prefix": "--transition-delay-0",
+    "body": [
+      "var(--transition-delay-0)"
+    ],
+    "description": "Transition Delay 0 (0.15s)"
+  },
+  "Transition Delay 1 (0.3s)": {
+    "prefix": "--transition-delay-1",
+    "body": [
+      "var(--transition-delay-1)"
+    ],
+    "description": "Transition Delay 1 (0.3s)"
+  },
+  "Transition Delay 2 (0.5s)": {
+    "prefix": "--transition-delay-2",
+    "body": [
+      "var(--transition-delay-2)"
+    ],
+    "description": "Transition Delay 2 (0.5s)"
+  },
+  "Transition Delay 3 (1s)": {
+    "prefix": "--transition-delay-3",
+    "body": [
+      "var(--transition-delay-3)"
+    ],
+    "description": "Transition Delay 3 (1s)"
+  },
+  "Transition Duration 0 (0.15s)": {
+    "prefix": "--transition-duration-0",
+    "body": [
+      "var(--transition-duration-0)"
+    ],
+    "description": "Transition Duration 0 (0.15s)"
+  },
+  "Transition Duration 1 (0.3s)": {
+    "prefix": "--transition-duration-1",
+    "body": [
+      "var(--transition-duration-1)"
+    ],
+    "description": "Transition Duration 1 (0.3s)"
+  },
+  "Transition Duration 2 (0.5s)": {
+    "prefix": "--transition-duration-2",
+    "body": [
+      "var(--transition-duration-2)"
+    ],
+    "description": "Transition Duration 2 (0.5s)"
+  },
+  "Transition Duration 3 (1s)": {
+    "prefix": "--transition-duration-3",
+    "body": [
+      "var(--transition-duration-3)"
+    ],
+    "description": "Transition Duration 3 (1s)"
+  },
+  "Transition Timing Function Ease In (cubic-bezier(0.4, 0, 1, 1))": {
+    "prefix": "--transition-timing-function-ease-in",
+    "body": [
+      "var(--transition-timing-function-ease-in)"
+    ],
+    "description": "Transition Timing Function Ease In (cubic-bezier(0.4, 0, 1, 1))"
+  },
+  "Transition Timing Function Ease In Out (cubic-bezier(0, 0, 0.2, 1))": {
+    "prefix": "--transition-timing-function-ease-out",
+    "body": [
+      "var(--transition-timing-function-ease-out)"
+    ],
+    "description": "Transition Timing Function Ease In Out (cubic-bezier(0, 0, 0.2, 1))"
+  },
+  "Transition Timing Function Ease In Out (cubic-bezier(0.4, 0, 0.2, 1))": {
+    "prefix": "--transition-timing-function-ease-in-out",
+    "body": [
+      "var(--transition-timing-function-ease-in-out)"
+    ],
+    "description": "Transition Timing Function Ease In Out (cubic-bezier(0.4, 0, 0.2, 1))"
+  },
+  "Transition None (none)": {
+    "prefix": "--transition-none",
+    "body": [
+      "var(--transition-none)"
+    ],
+    "description": "Transition None (none)"
+  },
+  "Transition All (all var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": {
+    "prefix": "--transition-all",
+    "body": [
+      "var(--transition-all)"
+    ],
+    "description": "Transition All (all var(--transition-duration-0) var(--transition-timing-function-ease-in-out))"
+  },
+  "Transition Colors (background-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), border-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), fill var(--transition-duration-0) var(--transition-timing-function-ease-in-out), stroke var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": {
+    "prefix": "--transition-colors",
+    "body": [
+      "var(--transition-colors)"
+    ],
+    "description": "Transition Colors (background-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), border-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), fill var(--transition-duration-0) var(--transition-timing-function-ease-in-out), stroke var(--transition-duration-0) var(--transition-timing-function-ease-in-out))"
+  },
+  "Transition Opacity (opacity var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": {
+    "prefix": "--transition-opacity",
+    "body": [
+      "var(--transition-opacity)"
+    ],
+    "description": "Transition Opacity (opacity var(--transition-duration-0) var(--transition-timing-function-ease-in-out))"
+  },
+  "Transition Box Shadow (box-shadow var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": {
+    "prefix": "--transition-box-shadow",
+    "body": [
+      "var(--transition-box-shadow)"
+    ],
+    "description": "Transition Box Shadow (box-shadow var(--transition-duration-0) var(--transition-timing-function-ease-in-out))"
+  },
+  "Transition Transform (transform var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": {
+    "prefix": "--transition-transform",
+    "body": [
+      "var(--transition-transform)"
+    ],
+    "description": "Transition Transform (transform var(--transition-duration-0) var(--transition-timing-function-ease-in-out))"
   }
 }

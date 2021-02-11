@@ -1,0 +1,60 @@
+import { Variable } from "../types";
+
+export const borderWidthVariables: Variable[] = [
+  {
+    key: "--border-width-0",
+    value: "0px",
+    name: "Border Width 0",
+    category: "border-width",
+    equivalent: "0px",
+    documentationUrl: "",
+  },
+  {
+    key: "--border-width-1",
+    value: "1px",
+    name: "Border Width 1",
+    category: "border-width",
+    equivalent: "1px",
+    documentationUrl: "",
+  },
+  {
+    key: "--border-width-2",
+    value: "0.125rem",
+    name: "Border Width 2",
+    category: "border-width",
+    equivalent: "2px",
+    documentationUrl: "",
+  },
+  {
+    key: "--border-width-3",
+    value: "0.25rem",
+    name: "Border Width 3",
+    category: "border-width",
+    equivalent: "4px",
+    documentationUrl: "",
+  },
+  {
+    key: "--border-width-4",
+    value: "0.5rem",
+    name: "Border Width 4",
+    category: "border-width",
+    equivalent: "8px",
+    documentationUrl: "",
+  },
+  {
+    key: "--border-width-5",
+    value: "0.75rem",
+    name: "Border Width 5",
+    category: "border-width",
+    equivalent: "12px",
+    documentationUrl: "",
+  },
+  {
+    key: "--border-width-6",
+    value: "1rem",
+    name: "Border Width 6",
+    category: "border-width",
+    equivalent: "16px",
+    documentationUrl: "",
+  },
+];
