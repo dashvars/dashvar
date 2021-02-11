@@ -196,76 +196,6 @@ describe("VS Code Snippets", () => {
           "description": "Box Shadow Inner (inset 0 2px 4px 0 rgba(0, 0, 0, 0.06))",
           "prefix": "--box-shadow-inner",
         },
-        "Color Amber 100 (#fef3c7)": Object {
-          "body": Array [
-            "var(--amber-100)",
-          ],
-          "description": "Color Amber 100 (#fef3c7)",
-          "prefix": "--amber-100",
-        },
-        "Color Amber 200 (#fde68a)": Object {
-          "body": Array [
-            "var(--amber-200)",
-          ],
-          "description": "Color Amber 200 (#fde68a)",
-          "prefix": "--amber-200",
-        },
-        "Color Amber 300 (#fcd34d)": Object {
-          "body": Array [
-            "var(--amber-300)",
-          ],
-          "description": "Color Amber 300 (#fcd34d)",
-          "prefix": "--amber-300",
-        },
-        "Color Amber 400 (#fbbf24)": Object {
-          "body": Array [
-            "var(--amber-400)",
-          ],
-          "description": "Color Amber 400 (#fbbf24)",
-          "prefix": "--amber-400",
-        },
-        "Color Amber 50 (#fffbeb)": Object {
-          "body": Array [
-            "var(--amber-50)",
-          ],
-          "description": "Color Amber 50 (#fffbeb)",
-          "prefix": "--amber-50",
-        },
-        "Color Amber 500 (#f59e0b)": Object {
-          "body": Array [
-            "var(--amber-500)",
-          ],
-          "description": "Color Amber 500 (#f59e0b)",
-          "prefix": "--amber-500",
-        },
-        "Color Amber 600 (#d97706)": Object {
-          "body": Array [
-            "var(--amber-600)",
-          ],
-          "description": "Color Amber 600 (#d97706)",
-          "prefix": "--amber-600",
-        },
-        "Color Amber 700 (#b45309)": Object {
-          "body": Array [
-            "var(--amber-700)",
-          ],
-          "description": "Color Amber 700 (#b45309)",
-          "prefix": "--amber-700",
-        },
-        "Color Amber 800 (#92400e)": Object {
-          "body": Array [
-            "var(--amber-800)",
-          ],
-          "description": "Color Amber 800 (#92400e)",
-          "prefix": "--amber-800",
-        },
-        "Color Amber 900 (#78350f)": Object {
-          "body": Array [
-            "var(--amber-900)",
-          ],
-          "description": "Color Amber 900 (#78350f)",
-          "prefix": "--amber-900",
-        },
         "Color Black (#000000)": Object {
           "body": Array [
             "var(--black)",
@@ -343,76 +273,6 @@ describe("VS Code Snippets", () => {
           "description": "Color Blue 900 (#1e3a8a)",
           "prefix": "--blue-900",
         },
-        "Color Emerald 100 (#d1fae5)": Object {
-          "body": Array [
-            "var(--emerald-100)",
-          ],
-          "description": "Color Emerald 100 (#d1fae5)",
-          "prefix": "--emerald-100",
-        },
-        "Color Emerald 200 (#a7f3d0)": Object {
-          "body": Array [
-            "var(--emerald-200)",
-          ],
-          "description": "Color Emerald 200 (#a7f3d0)",
-          "prefix": "--emerald-200",
-        },
-        "Color Emerald 300 (#6ee7b7)": Object {
-          "body": Array [
-            "var(--emerald-300)",
-          ],
-          "description": "Color Emerald 300 (#6ee7b7)",
-          "prefix": "--emerald-300",
-        },
-        "Color Emerald 400 (#34d399)": Object {
-          "body": Array [
-            "var(--emerald-400)",
-          ],
-          "description": "Color Emerald 400 (#34d399)",
-          "prefix": "--emerald-400",
-        },
-        "Color Emerald 50 (#ecfdf5)": Object {
-          "body": Array [
-            "var(--emerald-50)",
-          ],
-          "description": "Color Emerald 50 (#ecfdf5)",
-          "prefix": "--emerald-50",
-        },
-        "Color Emerald 500 (#10b981)": Object {
-          "body": Array [
-            "var(--emerald-500)",
-          ],
-          "description": "Color Emerald 500 (#10b981)",
-          "prefix": "--emerald-500",
-        },
-        "Color Emerald 600 (#059669)": Object {
-          "body": Array [
-            "var(--emerald-600)",
-          ],
-          "description": "Color Emerald 600 (#059669)",
-          "prefix": "--emerald-600",
-        },
-        "Color Emerald 700 (#047857)": Object {
-          "body": Array [
-            "var(--emerald-700)",
-          ],
-          "description": "Color Emerald 700 (#047857)",
-          "prefix": "--emerald-700",
-        },
-        "Color Emerald 800 (#065f46)": Object {
-          "body": Array [
-            "var(--emerald-800)",
-          ],
-          "description": "Color Emerald 800 (#065f46)",
-          "prefix": "--emerald-800",
-        },
-        "Color Emerald 900 (#064e3b)": Object {
-          "body": Array [
-            "var(--emerald-900)",
-          ],
-          "description": "Color Emerald 900 (#064e3b)",
-          "prefix": "--emerald-900",
-        },
         "Color Gray 100 (#f3f4f6)": Object {
           "body": Array [
             "var(--gray-100)",
@@ -482,6 +342,76 @@ describe("VS Code Snippets", () => {
           ],
           "description": "Color Gray 900 (#111827)",
           "prefix": "--gray-900",
+        },
+        "Color Green 100 (#d1fae5)": Object {
+          "body": Array [
+            "var(--green-100)",
+          ],
+          "description": "Color Green 100 (#d1fae5)",
+          "prefix": "--green-100",
+        },
+        "Color Green 200 (#a7f3d0)": Object {
+          "body": Array [
+            "var(--green-200)",
+          ],
+          "description": "Color Green 200 (#a7f3d0)",
+          "prefix": "--green-200",
+        },
+        "Color Green 300 (#6ee7b7)": Object {
+          "body": Array [
+            "var(--green-300)",
+          ],
+          "description": "Color Green 300 (#6ee7b7)",
+          "prefix": "--green-300",
+        },
+        "Color Green 400 (#34d399)": Object {
+          "body": Array [
+            "var(--green-400)",
+          ],
+          "description": "Color Green 400 (#34d399)",
+          "prefix": "--green-400",
+        },
+        "Color Green 50 (#ecfdf5)": Object {
+          "body": Array [
+            "var(--green-50)",
+          ],
+          "description": "Color Green 50 (#ecfdf5)",
+          "prefix": "--green-50",
+        },
+        "Color Green 500 (#10b981)": Object {
+          "body": Array [
+            "var(--green-500)",
+          ],
+          "description": "Color Green 500 (#10b981)",
+          "prefix": "--green-500",
+        },
+        "Color Green 600 (#059669)": Object {
+          "body": Array [
+            "var(--green-600)",
+          ],
+          "description": "Color Green 600 (#059669)",
+          "prefix": "--green-600",
+        },
+        "Color Green 700 (#047857)": Object {
+          "body": Array [
+            "var(--green-700)",
+          ],
+          "description": "Color Green 700 (#047857)",
+          "prefix": "--green-700",
+        },
+        "Color Green 800 (#065f46)": Object {
+          "body": Array [
+            "var(--green-800)",
+          ],
+          "description": "Color Green 800 (#065f46)",
+          "prefix": "--green-800",
+        },
+        "Color Green 900 (#064e3b)": Object {
+          "body": Array [
+            "var(--green-900)",
+          ],
+          "description": "Color Green 900 (#064e3b)",
+          "prefix": "--green-900",
         },
         "Color Indigo 100 (#e0e7ff)": Object {
           "body": Array [
@@ -623,6 +553,76 @@ describe("VS Code Snippets", () => {
           "description": "Color Pink 900 (#831843)",
           "prefix": "--pink-900",
         },
+        "Color Purple 100 (#ede9fe)": Object {
+          "body": Array [
+            "var(--purple-100)",
+          ],
+          "description": "Color Purple 100 (#ede9fe)",
+          "prefix": "--purple-100",
+        },
+        "Color Purple 200 (#ddd6fe)": Object {
+          "body": Array [
+            "var(--purple-200)",
+          ],
+          "description": "Color Purple 200 (#ddd6fe)",
+          "prefix": "--purple-200",
+        },
+        "Color Purple 300 (#c4b5fd)": Object {
+          "body": Array [
+            "var(--purple-300)",
+          ],
+          "description": "Color Purple 300 (#c4b5fd)",
+          "prefix": "--purple-300",
+        },
+        "Color Purple 400 (#a78bfa)": Object {
+          "body": Array [
+            "var(--purple-400)",
+          ],
+          "description": "Color Purple 400 (#a78bfa)",
+          "prefix": "--purple-400",
+        },
+        "Color Purple 50 (#f5f3ff)": Object {
+          "body": Array [
+            "var(--purple-50)",
+          ],
+          "description": "Color Purple 50 (#f5f3ff)",
+          "prefix": "--purple-50",
+        },
+        "Color Purple 500 (#8b5cf6)": Object {
+          "body": Array [
+            "var(--purple-500)",
+          ],
+          "description": "Color Purple 500 (#8b5cf6)",
+          "prefix": "--purple-500",
+        },
+        "Color Purple 600 (#7c3aed)": Object {
+          "body": Array [
+            "var(--purple-600)",
+          ],
+          "description": "Color Purple 600 (#7c3aed)",
+          "prefix": "--purple-600",
+        },
+        "Color Purple 700 (#6d28d9)": Object {
+          "body": Array [
+            "var(--purple-700)",
+          ],
+          "description": "Color Purple 700 (#6d28d9)",
+          "prefix": "--purple-700",
+        },
+        "Color Purple 800 (#5b21b6)": Object {
+          "body": Array [
+            "var(--purple-800)",
+          ],
+          "description": "Color Purple 800 (#5b21b6)",
+          "prefix": "--purple-800",
+        },
+        "Color Purple 900 (#4c1d95)": Object {
+          "body": Array [
+            "var(--purple-900)",
+          ],
+          "description": "Color Purple 900 (#4c1d95)",
+          "prefix": "--purple-900",
+        },
         "Color Red 100 (#fee2e2)": Object {
           "body": Array [
             "var(--red-100)",
@@ -693,82 +693,82 @@ describe("VS Code Snippets", () => {
           "description": "Color Red 900 (#7f1d1d)",
           "prefix": "--red-900",
         },
-        "Color Violet 100 (#ede9fe)": Object {
-          "body": Array [
-            "var(--violet-100)",
-          ],
-          "description": "Color Violet 100 (#ede9fe)",
-          "prefix": "--violet-100",
-        },
-        "Color Violet 200 (#ddd6fe)": Object {
-          "body": Array [
-            "var(--violet-200)",
-          ],
-          "description": "Color Violet 200 (#ddd6fe)",
-          "prefix": "--violet-200",
-        },
-        "Color Violet 300 (#c4b5fd)": Object {
-          "body": Array [
-            "var(--violet-300)",
-          ],
-          "description": "Color Violet 300 (#c4b5fd)",
-          "prefix": "--violet-300",
-        },
-        "Color Violet 400 (#a78bfa)": Object {
-          "body": Array [
-            "var(--violet-400)",
-          ],
-          "description": "Color Violet 400 (#a78bfa)",
-          "prefix": "--violet-400",
-        },
-        "Color Violet 50 (#f5f3ff)": Object {
-          "body": Array [
-            "var(--violet-50)",
-          ],
-          "description": "Color Violet 50 (#f5f3ff)",
-          "prefix": "--violet-50",
-        },
-        "Color Violet 500 (#8b5cf6)": Object {
-          "body": Array [
-            "var(--violet-500)",
-          ],
-          "description": "Color Violet 500 (#8b5cf6)",
-          "prefix": "--violet-500",
-        },
-        "Color Violet 600 (#7c3aed)": Object {
-          "body": Array [
-            "var(--violet-600)",
-          ],
-          "description": "Color Violet 600 (#7c3aed)",
-          "prefix": "--violet-600",
-        },
-        "Color Violet 700 (#6d28d9)": Object {
-          "body": Array [
-            "var(--violet-700)",
-          ],
-          "description": "Color Violet 700 (#6d28d9)",
-          "prefix": "--violet-700",
-        },
-        "Color Violet 800 (#5b21b6)": Object {
-          "body": Array [
-            "var(--violet-800)",
-          ],
-          "description": "Color Violet 800 (#5b21b6)",
-          "prefix": "--violet-800",
-        },
-        "Color Violet 900 (#4c1d95)": Object {
-          "body": Array [
-            "var(--violet-900)",
-          ],
-          "description": "Color Violet 900 (#4c1d95)",
-          "prefix": "--violet-900",
-        },
         "Color White (#ffffff)": Object {
           "body": Array [
             "var(--white)",
           ],
           "description": "Color White (#ffffff)",
           "prefix": "--white",
+        },
+        "Color Yellow 100 (#fef3c7)": Object {
+          "body": Array [
+            "var(--yellow-100)",
+          ],
+          "description": "Color Yellow 100 (#fef3c7)",
+          "prefix": "--yellow-100",
+        },
+        "Color Yellow 200 (#fde68a)": Object {
+          "body": Array [
+            "var(--yellow-200)",
+          ],
+          "description": "Color Yellow 200 (#fde68a)",
+          "prefix": "--yellow-200",
+        },
+        "Color Yellow 300 (#fcd34d)": Object {
+          "body": Array [
+            "var(--yellow-300)",
+          ],
+          "description": "Color Yellow 300 (#fcd34d)",
+          "prefix": "--yellow-300",
+        },
+        "Color Yellow 400 (#fbbf24)": Object {
+          "body": Array [
+            "var(--yellow-400)",
+          ],
+          "description": "Color Yellow 400 (#fbbf24)",
+          "prefix": "--yellow-400",
+        },
+        "Color Yellow 50 (#fffbeb)": Object {
+          "body": Array [
+            "var(--yellow-50)",
+          ],
+          "description": "Color Yellow 50 (#fffbeb)",
+          "prefix": "--yellow-50",
+        },
+        "Color Yellow 500 (#f59e0b)": Object {
+          "body": Array [
+            "var(--yellow-500)",
+          ],
+          "description": "Color Yellow 500 (#f59e0b)",
+          "prefix": "--yellow-500",
+        },
+        "Color Yellow 600 (#d97706)": Object {
+          "body": Array [
+            "var(--yellow-600)",
+          ],
+          "description": "Color Yellow 600 (#d97706)",
+          "prefix": "--yellow-600",
+        },
+        "Color Yellow 700 (#b45309)": Object {
+          "body": Array [
+            "var(--yellow-700)",
+          ],
+          "description": "Color Yellow 700 (#b45309)",
+          "prefix": "--yellow-700",
+        },
+        "Color Yellow 800 (#92400e)": Object {
+          "body": Array [
+            "var(--yellow-800)",
+          ],
+          "description": "Color Yellow 800 (#92400e)",
+          "prefix": "--yellow-800",
+        },
+        "Color Yellow 900 (#78350f)": Object {
+          "body": Array [
+            "var(--yellow-900)",
+          ],
+          "description": "Color Yellow 900 (#78350f)",
+          "prefix": "--yellow-900",
         },
         "Font Family Mono (ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \\"Liberation Mono\\", \\"Courier New\\", monospace)": Object {
           "body": Array [

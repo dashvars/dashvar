@@ -818,75 +818,75 @@
     ],
     "description": "Color Black (#000000)"
   },
-  "Color Amber 50 (#fffbeb)": {
-    "prefix": "--amber-50",
+  "Color Yellow 50 (#fffbeb)": {
+    "prefix": "--yellow-50",
     "body": [
-      "var(--amber-50)"
+      "var(--yellow-50)"
     ],
-    "description": "Color Amber 50 (#fffbeb)"
+    "description": "Color Yellow 50 (#fffbeb)"
   },
-  "Color Amber 100 (#fef3c7)": {
-    "prefix": "--amber-100",
+  "Color Yellow 100 (#fef3c7)": {
+    "prefix": "--yellow-100",
     "body": [
-      "var(--amber-100)"
+      "var(--yellow-100)"
     ],
-    "description": "Color Amber 100 (#fef3c7)"
+    "description": "Color Yellow 100 (#fef3c7)"
   },
-  "Color Amber 200 (#fde68a)": {
-    "prefix": "--amber-200",
+  "Color Yellow 200 (#fde68a)": {
+    "prefix": "--yellow-200",
     "body": [
-      "var(--amber-200)"
+      "var(--yellow-200)"
     ],
-    "description": "Color Amber 200 (#fde68a)"
+    "description": "Color Yellow 200 (#fde68a)"
   },
-  "Color Amber 300 (#fcd34d)": {
-    "prefix": "--amber-300",
+  "Color Yellow 300 (#fcd34d)": {
+    "prefix": "--yellow-300",
     "body": [
-      "var(--amber-300)"
+      "var(--yellow-300)"
     ],
-    "description": "Color Amber 300 (#fcd34d)"
+    "description": "Color Yellow 300 (#fcd34d)"
   },
-  "Color Amber 400 (#fbbf24)": {
-    "prefix": "--amber-400",
+  "Color Yellow 400 (#fbbf24)": {
+    "prefix": "--yellow-400",
     "body": [
-      "var(--amber-400)"
+      "var(--yellow-400)"
     ],
-    "description": "Color Amber 400 (#fbbf24)"
+    "description": "Color Yellow 400 (#fbbf24)"
   },
-  "Color Amber 500 (#f59e0b)": {
-    "prefix": "--amber-500",
+  "Color Yellow 500 (#f59e0b)": {
+    "prefix": "--yellow-500",
     "body": [
-      "var(--amber-500)"
+      "var(--yellow-500)"
     ],
-    "description": "Color Amber 500 (#f59e0b)"
+    "description": "Color Yellow 500 (#f59e0b)"
   },
-  "Color Amber 600 (#d97706)": {
-    "prefix": "--amber-600",
+  "Color Yellow 600 (#d97706)": {
+    "prefix": "--yellow-600",
     "body": [
-      "var(--amber-600)"
+      "var(--yellow-600)"
     ],
-    "description": "Color Amber 600 (#d97706)"
+    "description": "Color Yellow 600 (#d97706)"
   },
-  "Color Amber 700 (#b45309)": {
-    "prefix": "--amber-700",
+  "Color Yellow 700 (#b45309)": {
+    "prefix": "--yellow-700",
     "body": [
-      "var(--amber-700)"
+      "var(--yellow-700)"
     ],
-    "description": "Color Amber 700 (#b45309)"
+    "description": "Color Yellow 700 (#b45309)"
   },
-  "Color Amber 800 (#92400e)": {
-    "prefix": "--amber-800",
+  "Color Yellow 800 (#92400e)": {
+    "prefix": "--yellow-800",
     "body": [
-      "var(--amber-800)"
+      "var(--yellow-800)"
     ],
-    "description": "Color Amber 800 (#92400e)"
+    "description": "Color Yellow 800 (#92400e)"
   },
-  "Color Amber 900 (#78350f)": {
-    "prefix": "--amber-900",
+  "Color Yellow 900 (#78350f)": {
+    "prefix": "--yellow-900",
     "body": [
-      "var(--amber-900)"
+      "var(--yellow-900)"
     ],
-    "description": "Color Amber 900 (#78350f)"
+    "description": "Color Yellow 900 (#78350f)"
   },
   "Color Blue 50 (#eff6ff)": {
     "prefix": "--blue-50",
@@ -958,75 +958,75 @@
     ],
     "description": "Color Blue 900 (#1e3a8a)"
   },
-  "Color Emerald 50 (#ecfdf5)": {
-    "prefix": "--emerald-50",
+  "Color Green 50 (#ecfdf5)": {
+    "prefix": "--green-50",
     "body": [
-      "var(--emerald-50)"
+      "var(--green-50)"
     ],
-    "description": "Color Emerald 50 (#ecfdf5)"
+    "description": "Color Green 50 (#ecfdf5)"
   },
-  "Color Emerald 100 (#d1fae5)": {
-    "prefix": "--emerald-100",
+  "Color Green 100 (#d1fae5)": {
+    "prefix": "--green-100",
     "body": [
-      "var(--emerald-100)"
+      "var(--green-100)"
     ],
-    "description": "Color Emerald 100 (#d1fae5)"
+    "description": "Color Green 100 (#d1fae5)"
   },
-  "Color Emerald 200 (#a7f3d0)": {
-    "prefix": "--emerald-200",
+  "Color Green 200 (#a7f3d0)": {
+    "prefix": "--green-200",
     "body": [
-      "var(--emerald-200)"
+      "var(--green-200)"
     ],
-    "description": "Color Emerald 200 (#a7f3d0)"
+    "description": "Color Green 200 (#a7f3d0)"
   },
-  "Color Emerald 300 (#6ee7b7)": {
-    "prefix": "--emerald-300",
+  "Color Green 300 (#6ee7b7)": {
+    "prefix": "--green-300",
     "body": [
-      "var(--emerald-300)"
+      "var(--green-300)"
     ],
-    "description": "Color Emerald 300 (#6ee7b7)"
+    "description": "Color Green 300 (#6ee7b7)"
   },
-  "Color Emerald 400 (#34d399)": {
-    "prefix": "--emerald-400",
+  "Color Green 400 (#34d399)": {
+    "prefix": "--green-400",
     "body": [
-      "var(--emerald-400)"
+      "var(--green-400)"
     ],
-    "description": "Color Emerald 400 (#34d399)"
+    "description": "Color Green 400 (#34d399)"
   },
-  "Color Emerald 500 (#10b981)": {
-    "prefix": "--emerald-500",
+  "Color Green 500 (#10b981)": {
+    "prefix": "--green-500",
     "body": [
-      "var(--emerald-500)"
+      "var(--green-500)"
     ],
-    "description": "Color Emerald 500 (#10b981)"
+    "description": "Color Green 500 (#10b981)"
   },
-  "Color Emerald 600 (#059669)": {
-    "prefix": "--emerald-600",
+  "Color Green 600 (#059669)": {
+    "prefix": "--green-600",
     "body": [
-      "var(--emerald-600)"
+      "var(--green-600)"
     ],
-    "description": "Color Emerald 600 (#059669)"
+    "description": "Color Green 600 (#059669)"
   },
-  "Color Emerald 700 (#047857)": {
-    "prefix": "--emerald-700",
+  "Color Green 700 (#047857)": {
+    "prefix": "--green-700",
     "body": [
-      "var(--emerald-700)"
+      "var(--green-700)"
     ],
-    "description": "Color Emerald 700 (#047857)"
+    "description": "Color Green 700 (#047857)"
   },
-  "Color Emerald 800 (#065f46)": {
-    "prefix": "--emerald-800",
+  "Color Green 800 (#065f46)": {
+    "prefix": "--green-800",
     "body": [
-      "var(--emerald-800)"
+      "var(--green-800)"
     ],
-    "description": "Color Emerald 800 (#065f46)"
+    "description": "Color Green 800 (#065f46)"
   },
-  "Color Emerald 900 (#064e3b)": {
-    "prefix": "--emerald-900",
+  "Color Green 900 (#064e3b)": {
+    "prefix": "--green-900",
     "body": [
-      "var(--emerald-900)"
+      "var(--green-900)"
     ],
-    "description": "Color Emerald 900 (#064e3b)"
+    "description": "Color Green 900 (#064e3b)"
   },
   "Color Indigo 50 (#eef2ff)": {
     "prefix": "--indigo-50",
@@ -1238,75 +1238,75 @@
     ],
     "description": "Color Red 900 (#7f1d1d)"
   },
-  "Color Violet 50 (#f5f3ff)": {
-    "prefix": "--violet-50",
+  "Color Purple 50 (#f5f3ff)": {
+    "prefix": "--purple-50",
     "body": [
-      "var(--violet-50)"
+      "var(--purple-50)"
     ],
-    "description": "Color Violet 50 (#f5f3ff)"
+    "description": "Color Purple 50 (#f5f3ff)"
   },
-  "Color Violet 100 (#ede9fe)": {
-    "prefix": "--violet-100",
+  "Color Purple 100 (#ede9fe)": {
+    "prefix": "--purple-100",
     "body": [
-      "var(--violet-100)"
+      "var(--purple-100)"
     ],
-    "description": "Color Violet 100 (#ede9fe)"
+    "description": "Color Purple 100 (#ede9fe)"
   },
-  "Color Violet 200 (#ddd6fe)": {
-    "prefix": "--violet-200",
+  "Color Purple 200 (#ddd6fe)": {
+    "prefix": "--purple-200",
     "body": [
-      "var(--violet-200)"
+      "var(--purple-200)"
     ],
-    "description": "Color Violet 200 (#ddd6fe)"
+    "description": "Color Purple 200 (#ddd6fe)"
   },
-  "Color Violet 300 (#c4b5fd)": {
-    "prefix": "--violet-300",
+  "Color Purple 300 (#c4b5fd)": {
+    "prefix": "--purple-300",
     "body": [
-      "var(--violet-300)"
+      "var(--purple-300)"
     ],
-    "description": "Color Violet 300 (#c4b5fd)"
+    "description": "Color Purple 300 (#c4b5fd)"
   },
-  "Color Violet 400 (#a78bfa)": {
-    "prefix": "--violet-400",
+  "Color Purple 400 (#a78bfa)": {
+    "prefix": "--purple-400",
     "body": [
-      "var(--violet-400)"
+      "var(--purple-400)"
     ],
-    "description": "Color Violet 400 (#a78bfa)"
+    "description": "Color Purple 400 (#a78bfa)"
   },
-  "Color Violet 500 (#8b5cf6)": {
-    "prefix": "--violet-500",
+  "Color Purple 500 (#8b5cf6)": {
+    "prefix": "--purple-500",
     "body": [
-      "var(--violet-500)"
+      "var(--purple-500)"
     ],
-    "description": "Color Violet 500 (#8b5cf6)"
+    "description": "Color Purple 500 (#8b5cf6)"
   },
-  "Color Violet 600 (#7c3aed)": {
-    "prefix": "--violet-600",
+  "Color Purple 600 (#7c3aed)": {
+    "prefix": "--purple-600",
     "body": [
-      "var(--violet-600)"
+      "var(--purple-600)"
     ],
-    "description": "Color Violet 600 (#7c3aed)"
+    "description": "Color Purple 600 (#7c3aed)"
   },
-  "Color Violet 700 (#6d28d9)": {
-    "prefix": "--violet-700",
+  "Color Purple 700 (#6d28d9)": {
+    "prefix": "--purple-700",
     "body": [
-      "var(--violet-700)"
+      "var(--purple-700)"
     ],
-    "description": "Color Violet 700 (#6d28d9)"
+    "description": "Color Purple 700 (#6d28d9)"
   },
-  "Color Violet 800 (#5b21b6)": {
-    "prefix": "--violet-800",
+  "Color Purple 800 (#5b21b6)": {
+    "prefix": "--purple-800",
     "body": [
-      "var(--violet-800)"
+      "var(--purple-800)"
     ],
-    "description": "Color Violet 800 (#5b21b6)"
+    "description": "Color Purple 800 (#5b21b6)"
   },
-  "Color Violet 900 (#4c1d95)": {
-    "prefix": "--violet-900",
+  "Color Purple 900 (#4c1d95)": {
+    "prefix": "--purple-900",
     "body": [
-      "var(--violet-900)"
+      "var(--purple-900)"
     ],
-    "description": "Color Violet 900 (#4c1d95)"
+    "description": "Color Purple 900 (#4c1d95)"
   },
   "Transition Delay 0 (0.15s)": {
     "prefix": "--transition-delay-0",
