@@ -91,6 +91,55 @@ describe("VS Code Snippets", () => {
           "description": "Border Radius Full (9999px)",
           "prefix": "--border-radius-full",
         },
+        "Border Width 0 (0px)": Object {
+          "body": Array [
+            "var(--border-width-0)",
+          ],
+          "description": "Border Width 0 (0px)",
+          "prefix": "--border-width-0",
+        },
+        "Border Width 1 (1px)": Object {
+          "body": Array [
+            "var(--border-width-1)",
+          ],
+          "description": "Border Width 1 (1px)",
+          "prefix": "--border-width-1",
+        },
+        "Border Width 2 (0.125rem / 2px)": Object {
+          "body": Array [
+            "var(--border-width-2)",
+          ],
+          "description": "Border Width 2 (0.125rem / 2px)",
+          "prefix": "--border-width-2",
+        },
+        "Border Width 3 (0.25rem / 4px)": Object {
+          "body": Array [
+            "var(--border-width-3)",
+          ],
+          "description": "Border Width 3 (0.25rem / 4px)",
+          "prefix": "--border-width-3",
+        },
+        "Border Width 4 (0.5rem / 8px)": Object {
+          "body": Array [
+            "var(--border-width-4)",
+          ],
+          "description": "Border Width 4 (0.5rem / 8px)",
+          "prefix": "--border-width-4",
+        },
+        "Border Width 5 (0.75rem / 12px)": Object {
+          "body": Array [
+            "var(--border-width-5)",
+          ],
+          "description": "Border Width 5 (0.75rem / 12px)",
+          "prefix": "--border-width-5",
+        },
+        "Border Width 6 (1rem / 16px)": Object {
+          "body": Array [
+            "var(--border-width-6)",
+          ],
+          "description": "Border Width 6 (1rem / 16px)",
+          "prefix": "--border-width-6",
+        },
         "Box Shadow 0 (0 0 #0000)": Object {
           "body": Array [
             "var(--box-shadow-0)",
@@ -1057,6 +1106,48 @@ describe("VS Code Snippets", () => {
           "description": "Opacity 5 (1)",
           "prefix": "--opacity-5",
         },
+        "Outline Black (2px dotted black)": Object {
+          "body": Array [
+            "var(--outline-black)",
+          ],
+          "description": "Outline Black (2px dotted black)",
+          "prefix": "--outline-black",
+        },
+        "Outline None (2px solid transparent)": Object {
+          "body": Array [
+            "var(--outline-none)",
+          ],
+          "description": "Outline None (2px solid transparent)",
+          "prefix": "--outline-none",
+        },
+        "Outline Offset 0 (0px)": Object {
+          "body": Array [
+            "var(--outline-offset-0)",
+          ],
+          "description": "Outline Offset 0 (0px)",
+          "prefix": "--outline-offset-0",
+        },
+        "Outline Offset 1 (2px)": Object {
+          "body": Array [
+            "var(--outline-offset-1)",
+          ],
+          "description": "Outline Offset 1 (2px)",
+          "prefix": "--outline-offset-1",
+        },
+        "Outline Offset 2 (4px)": Object {
+          "body": Array [
+            "var(--outline-offset-2)",
+          ],
+          "description": "Outline Offset 2 (4px)",
+          "prefix": "--outline-offset-2",
+        },
+        "Outline White (2px dotted white)": Object {
+          "body": Array [
+            "var(--outline-white)",
+          ],
+          "description": "Outline White (2px dotted white)",
+          "prefix": "--outline-white",
+        },
         "Size 00 (0px)": Object {
           "body": Array [
             "var(--size-00)",
@@ -1189,6 +1280,167 @@ describe("VS Code Snippets", () => {
           ],
           "description": "Size 18 (90rem / 1440px)",
           "prefix": "--size-18",
+        },
+        "Transition All (all var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": Object {
+          "body": Array [
+            "var(--transition-all)",
+          ],
+          "description": "Transition All (all var(--transition-duration-0) var(--transition-timing-function-ease-in-out))",
+          "prefix": "--transition-all",
+        },
+        "Transition Box Shadow (box-shadow var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": Object {
+          "body": Array [
+            "var(--transition-box-shadow)",
+          ],
+          "description": "Transition Box Shadow (box-shadow var(--transition-duration-0) var(--transition-timing-function-ease-in-out))",
+          "prefix": "--transition-box-shadow",
+        },
+        "Transition Colors (background-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), border-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), fill var(--transition-duration-0) var(--transition-timing-function-ease-in-out), stroke var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": Object {
+          "body": Array [
+            "var(--transition-colors)",
+          ],
+          "description": "Transition Colors (background-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), border-color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), color var(--transition-duration-0) var(--transition-timing-function-ease-in-out), fill var(--transition-duration-0) var(--transition-timing-function-ease-in-out), stroke var(--transition-duration-0) var(--transition-timing-function-ease-in-out))",
+          "prefix": "--transition-colors",
+        },
+        "Transition Delay 0 (0.15s)": Object {
+          "body": Array [
+            "var(--transition-delay-0)",
+          ],
+          "description": "Transition Delay 0 (0.15s)",
+          "prefix": "--transition-delay-0",
+        },
+        "Transition Delay 1 (0.3s)": Object {
+          "body": Array [
+            "var(--transition-delay-1)",
+          ],
+          "description": "Transition Delay 1 (0.3s)",
+          "prefix": "--transition-delay-1",
+        },
+        "Transition Delay 2 (0.5s)": Object {
+          "body": Array [
+            "var(--transition-delay-2)",
+          ],
+          "description": "Transition Delay 2 (0.5s)",
+          "prefix": "--transition-delay-2",
+        },
+        "Transition Delay 3 (1s)": Object {
+          "body": Array [
+            "var(--transition-delay-3)",
+          ],
+          "description": "Transition Delay 3 (1s)",
+          "prefix": "--transition-delay-3",
+        },
+        "Transition Duration 0 (0.15s)": Object {
+          "body": Array [
+            "var(--transition-duration-0)",
+          ],
+          "description": "Transition Duration 0 (0.15s)",
+          "prefix": "--transition-duration-0",
+        },
+        "Transition Duration 1 (0.3s)": Object {
+          "body": Array [
+            "var(--transition-duration-1)",
+          ],
+          "description": "Transition Duration 1 (0.3s)",
+          "prefix": "--transition-duration-1",
+        },
+        "Transition Duration 2 (0.5s)": Object {
+          "body": Array [
+            "var(--transition-duration-2)",
+          ],
+          "description": "Transition Duration 2 (0.5s)",
+          "prefix": "--transition-duration-2",
+        },
+        "Transition Duration 3 (1s)": Object {
+          "body": Array [
+            "var(--transition-duration-3)",
+          ],
+          "description": "Transition Duration 3 (1s)",
+          "prefix": "--transition-duration-3",
+        },
+        "Transition None (none)": Object {
+          "body": Array [
+            "var(--transition-none)",
+          ],
+          "description": "Transition None (none)",
+          "prefix": "--transition-none",
+        },
+        "Transition Opacity (opacity var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": Object {
+          "body": Array [
+            "var(--transition-opacity)",
+          ],
+          "description": "Transition Opacity (opacity var(--transition-duration-0) var(--transition-timing-function-ease-in-out))",
+          "prefix": "--transition-opacity",
+        },
+        "Transition Timing Function Ease In (cubic-bezier(0.4, 0, 1, 1))": Object {
+          "body": Array [
+            "var(--transition-timing-function-ease-in)",
+          ],
+          "description": "Transition Timing Function Ease In (cubic-bezier(0.4, 0, 1, 1))",
+          "prefix": "--transition-timing-function-ease-in",
+        },
+        "Transition Timing Function Ease In Out (cubic-bezier(0, 0, 0.2, 1))": Object {
+          "body": Array [
+            "var(--transition-timing-function-ease-out)",
+          ],
+          "description": "Transition Timing Function Ease In Out (cubic-bezier(0, 0, 0.2, 1))",
+          "prefix": "--transition-timing-function-ease-out",
+        },
+        "Transition Timing Function Ease In Out (cubic-bezier(0.4, 0, 0.2, 1))": Object {
+          "body": Array [
+            "var(--transition-timing-function-ease-in-out)",
+          ],
+          "description": "Transition Timing Function Ease In Out (cubic-bezier(0.4, 0, 0.2, 1))",
+          "prefix": "--transition-timing-function-ease-in-out",
+        },
+        "Transition Transform (transform var(--transition-duration-0) var(--transition-timing-function-ease-in-out))": Object {
+          "body": Array [
+            "var(--transition-transform)",
+          ],
+          "description": "Transition Transform (transform var(--transition-duration-0) var(--transition-timing-function-ease-in-out))",
+          "prefix": "--transition-transform",
+        },
+        "Z-Index 0 (0)": Object {
+          "body": Array [
+            "var(--z-index-0)",
+          ],
+          "description": "Z-Index 0 (0)",
+          "prefix": "--z-index-0",
+        },
+        "Z-Index 1 (10)": Object {
+          "body": Array [
+            "var(--z-index-1)",
+          ],
+          "description": "Z-Index 1 (10)",
+          "prefix": "--z-index-1",
+        },
+        "Z-Index 2 (20)": Object {
+          "body": Array [
+            "var(--z-index-2)",
+          ],
+          "description": "Z-Index 2 (20)",
+          "prefix": "--z-index-2",
+        },
+        "Z-Index 3 (30)": Object {
+          "body": Array [
+            "var(--z-index-3)",
+          ],
+          "description": "Z-Index 3 (30)",
+          "prefix": "--z-index-3",
+        },
+        "Z-Index 4 (40)": Object {
+          "body": Array [
+            "var(--z-index-4)",
+          ],
+          "description": "Z-Index 4 (40)",
+          "prefix": "--z-index-4",
+        },
+        "Z-Index 5 (50)": Object {
+          "body": Array [
+            "var(--z-index-5)",
+          ],
+          "description": "Z-Index 5 (50)",
+          "prefix": "--z-index-5",
         },
       }
     `);
