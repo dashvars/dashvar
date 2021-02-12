@@ -1,6 +1,9 @@
 # dashvar
 
 [![Build](https://github.com/carlosbaraza/dashvar/workflows/Build/badge.svg)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build%22)
+[![GitHub license](https://img.shields.io/github/license/dashvars/dashvar)](https://github.com/dashvars/dashvar/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/tag/dashvars/dashvar.svg?sort=semver&label=Current%20release)](https://GitHub.com/dashvars/dashvar/releases/)
+[![npm version](https://badge.fury.io/js/dashvar.svg)](https://www.npmjs.com/package/dashvar)
 
 CSS variables library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
 
@@ -8,7 +11,7 @@ CSS variables library. Strong defaults for good looking designs. Inspired by Tai
 
 Features:
 
-- [x] Tiny (<4KB uncompressed or <1.5KB gzipped)
+- [x] Tiny (<1.5KB gzipped)
 - [x] Only CSS variables, no global styles. No risk to start using with an existing project.
 - [x] Colour palette
 - [x] Spacing scale
@@ -20,14 +23,14 @@ Features:
   - Not only reset, but also remove default styles from things like buttons, form inputs, headings, etc. The reasoning behind this is that it is easier to design starting from scratch, without having to account for default styles depending on the component.
   - Same Base than Tailwind CSS
 - [ ] Prune script to remove any non used variables (even smaller size)
-- [ ] Export variables as JS object (unless no-one finds this useful)
+- [x] Export variables as JS object (unless no-one finds this useful)
 - [ ] Examples:
   - [ ] `styled-components`
   - [ ] `styled-jsx`
   - [ ] `CSS modules`
-- [ ] VS Code extension with IntelliSense
-- [ ] NPM package
-- [ ] Good documentation
+- [x] VS Code extension with IntelliSense
+- [x] NPM package
+- [x] Good documentation
 
 # Getting started
 
