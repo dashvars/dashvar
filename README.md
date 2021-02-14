@@ -58,11 +58,8 @@ You can override any of the variables with your own if you need to:
 
 ```css
 :root {
-  --blue-500: rgb(
-    0,
-    0,
-    255
-  ); /* Just don't ever do this exact ugly override ;) */
+  /* Just don't ever do this exact ugly override ;) */
+  --blue-500: rgb(0, 0, 255);
 }
 ```
 
