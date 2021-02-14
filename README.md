@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Dashvar Logo Banner" src="https://github.com/dashvars/dashvar/blob/master/docs/dashvar-logo-banner.png" />
+  <a href="https://dashvar.com"><img alt="Dashvar Logo Banner" src="https://github.com/dashvars/dashvar/blob/master/docs/dashvar-logo-banner.png" /></a>
 </p>
 
 # [dashvar](https://dashvar.com)
