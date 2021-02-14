@@ -9,34 +9,32 @@
 [![GitHub release](https://img.shields.io/github/v/tag/dashvars/dashvar.svg?sort=semver&label=Current%20release)](https://GitHub.com/dashvars/dashvar/releases/)
 [![npm version](https://badge.fury.io/js/dashvar.svg)](https://www.npmjs.com/package/dashvar)
 
-CSS variables library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
+CSS Variables Library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
 
 [Full documentation](https://dashvar.com)
 
-Features:
+## Features:
 
 - [x] Tiny (<1.5KB gzipped)
 - [x] Only CSS variables, no global styles. No risk to start using with an existing project.
-- [x] Colour palette
-- [x] Spacing scale
-- [x] Text:
-  - [x] Font size scale
-  - [x] Line height scale
-  - [x] Font families
-- [x] Optional modern (and opinionated) CSS reset
-  - Not only reset, but also remove default styles from things like buttons, form inputs, headings, etc. The reasoning behind this is that it is easier to design starting from scratch, without having to account for default styles depending on the component.
-  - Same Base than Tailwind CSS
-- [ ] Prune script to remove any non used variables (even smaller size)
-- [x] Export variables as JS object (unless no-one finds this useful)
+  - [x] [Colour palette](https://dashvar.com/docs/colour-palette)
+  - [x] [Sizing and Scaling System](https://dashvar.com/docs/sizing-system)
+  - [x] Typography:
+    - [x] [Font size scale](https://dashvar.com/docs/font-size)
+    - [x] [Line height scale](https://dashvar.com/docs/line-height)
+    - [x] [Font family](https://dashvar.com/docs/font-family)
+  - [x] Many more at [full documentation](https://dashvar.com)
+- [x] [Optional modern (and opinionated) CSS reset](https://dashvar.com/docs/base-styles
+- [x] [VS Code extension with IntelliSense](https://dashvar.com/docs/vs-code-extension)
+- [x] [NPM package](https://www.npmjs.com/package/dashvar)
+  - [x] Export variables as JS object from NPM package
+- [x] [Good documentation](https://dashvar.com/docs)
 - [ ] Examples:
   - [ ] `styled-components`
   - [ ] `styled-jsx`
   - [ ] `CSS modules`
-- [x] VS Code extension with IntelliSense
-- [x] NPM package
-- [x] Good documentation
 
-# Getting started
+## Getting started
 
 Usage example:
 
@@ -45,32 +43,35 @@ Usage example:
   color: var(--gray-800);
   font-size: var(--font-size-2); /* 1rem / 16px */
   line-height: var(--line-height-2); /* 1.5rem / 24px */
-  padding: var(--s-5)); /* 1.25rem / 20px	*/
+  padding: var(--size-5)); /* 1.25rem / 20px	*/
 }
 
-@media (min-width: 768px) {
-  .component {
-    padding: var(--s-10); /* 2.5rem / 40px	*/
-  }
+/* If preferred, you can use @media queries */
+.md .component {
+  padding: var(--size-10); /* 2.5rem / 40px	*/
 }
 ```
 
-# Override variables
+## Override variables
 
 You can override any of the variables with your own if you need to:
 
 ```css
 :root {
-  --blue-500: rgb(0, 0, 255); /* Just don't ever do exactly this override ;) */
+  --blue-500: rgb(
+    0,
+    0,
+    255
+  ); /* Just don't ever do this exact ugly override ;) */
 }
 ```
 
-# Contributing
+## Contributing
 
-Please, feel free to contribute to the project. Any contributions are absolutely welcomed. Together, we can
-build a great and simple library for the long run.
+Please, we welcome any contributions to the project. Together, we can
+build a great, yet simple library for the long run.
 
-# Donations
+## Donations
 
 Dashvar aims to provide a simple design system to accelerate and facilitate the rapid development of user interfaces.
 
