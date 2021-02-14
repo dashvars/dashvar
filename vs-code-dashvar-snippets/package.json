@@ -2,7 +2,12 @@
   "name": "dashvar-snippets",
   "displayName": "dashvar-snippets",
   "description": "CSS variables library for good looking designs",
-  "version": "0.0.1",
+  "version": "0.3.0",
+  "publisher": "carlosbaraza",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dashvars/dashvar.git"
+  },
   "engines": {
     "vscode": "^1.53.0"
   },

@@ -11,6 +11,13 @@ npm i
 npm run test
 npm run build
 npm version $RELEASE_TYPE
+
+node ./release-change-extension-version.js
+cd vs-code-dashvar-snippets
+vsce package
+vsce publish
+
+cd ..
 npm publish
 git push
 git push origin --tags
