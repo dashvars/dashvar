@@ -13,7 +13,7 @@ export function generateCss() {
 
 export function buildCss() {
   const distFolder = path.join(__dirname, "..", "..", "dist");
-  fs.mkdir(distFolder, () => {});
+  fs.mkdirSync(distFolder);
 
   const cssPath = path.join(distFolder, "dashvar.css");
   const css = generateCss();
