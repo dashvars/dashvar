@@ -13,6 +13,8 @@ npm run build
 npm version $RELEASE_TYPE
 
 node ./release-change-extension-version.js
+git add vs-code-dashvar-snippets/package.json
+git commit -m "Bump VSCode Extension package.json version"
 cd vs-code-dashvar-snippets
 vsce package
 vsce publish
