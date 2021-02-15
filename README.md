@@ -15,7 +15,7 @@ CSS Variables Library. Strong defaults for good looking designs. Inspired by Tai
 
 ## Features:
 
-- [x] Tiny (<1.5KB gzipped)
+- [x] Tiny (<1.8KB gzipped)
 - [x] Only CSS variables, no global styles. No risk to start using with an existing project.
   - [x] [Colour palette](https://dashvar.com/docs/colour-palette)
   - [x] [Sizing and Scaling System](https://dashvar.com/docs/sizing-system)
