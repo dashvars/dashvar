@@ -4,10 +4,10 @@
 
 # [dashvar](https://dashvar.com)
 
-[![Build](https://github.com/carlosbaraza/dashvar/workflows/Build/badge.svg)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build%22)
-[![GitHub license](https://img.shields.io/github/license/dashvars/dashvar)](https://github.com/dashvars/dashvar/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/v/tag/dashvars/dashvar.svg?sort=semver&label=Current%20release)](https://GitHub.com/dashvars/dashvar/releases/)
-[![npm version](https://badge.fury.io/js/dashvar.svg)](https://www.npmjs.com/package/dashvar)
+[![Build](https://badgen.net/github/status/dashvars/dashvar)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build%22)
+[![GitHub license](https://badgen.net/github/license/dashvars/dashvar)](https://github.com/dashvars/dashvar/blob/master/LICENSE)
+[![GitHub release](https://badgen.net/github/tag/dashvars/dashvar)](https://GitHub.com/dashvars/dashvar/releases/)
+[![npm version](https://badgen.net/npm/v/dashvar)](https://www.npmjs.com/package/dashvar)
 
 CSS Variables Library. Strong defaults for good looking designs. Inspired by Tailwind CSS.
 
