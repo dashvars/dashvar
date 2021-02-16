@@ -4,7 +4,7 @@
 
 # [dashvar](https://dashvar.com)
 
-[![Build](https://badgen.net/github/status/dashvars/dashvar)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build%22)
+[![Build](https://badgen.net/github/checks/dashvars/dashvar)](https://github.com/carlosbaraza/dashvar/actions?query=workflow%3A%22Build%22)
 [![GitHub license](https://badgen.net/github/license/dashvars/dashvar)](https://github.com/dashvars/dashvar/blob/master/LICENSE)
 [![GitHub release](https://badgen.net/github/tag/dashvars/dashvar)](https://GitHub.com/dashvars/dashvar/releases/)
 [![npm version](https://badgen.net/npm/v/dashvar)](https://www.npmjs.com/package/dashvar)
