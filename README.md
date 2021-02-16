@@ -13,6 +13,10 @@ CSS Variables Library. Strong defaults for good looking designs. Inspired by Tai
 
 [Full documentation](https://dashvar.com)
 
+## Getting started
+
+We recommend you follow the [getting started page](https://dashvar.com/docs).
+
 ## Features:
 
 - [x] Tiny (<1.8KB gzipped)
@@ -34,9 +38,7 @@ CSS Variables Library. Strong defaults for good looking designs. Inspired by Tai
   - [ ] `styled-jsx`
   - [ ] `CSS modules`
 
-## Getting started
-
-Usage example:
+### Usage example:
 
 ```css
 .component {
