@@ -27,4 +27,5 @@
   window.addEventListener("resize", dashvarMedia);
   window.addEventListener("DOMContentLoaded", dashvarMedia);
   window.addEventListener("load", dashvarMedia);
+  dashvarMedia();
 })();
