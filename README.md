@@ -70,10 +70,12 @@ You can override any of the variables with your own if you need to:
 Please, we welcome any contributions to the project. Together, we can
 build a great, yet simple library for the long run.
 
-## Donations
+## [Donations](https://github.com/sponsors/dashvars)
 
-Dashvar aims to provide a simple design system to accelerate and facilitate the rapid development of user interfaces.
+[Support the project on the Dashvar GitHub Sponsors page](https://github.com/sponsors/dashvars).
 
-It will always be Open Source. However, in order to maintain the project, we'd need to find a sustainable income stream, mostly to cover our time investment to bring this hopefully useful project to you.
+The project is maintained, time and financially wise, by me ([Carlos Baraza](https://carlosbaraza.com)). I live in London, UK. And I strive to create an organization that can return some value to society in the best way I know how, technology.
 
-We would really appreciate your support. Any donation will make a big difference.
+Unfortunately, creating Open Source Software, although a great philanthropic exercise for the mind and the soul, has some disadvantages in comparison with proprietary software. I would love to continue providing value, and your contribution really makes a difference, even if it is really small.
+
+The funds will be used to maintain and create useful projects for the development community.
