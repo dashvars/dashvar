@@ -15,24 +15,24 @@ CSS Variables Library. Strong defaults for good looking designs. Inspired by Tai
 
 ## Getting started
 
-We recommend you follow the [getting started page](https://dashvar.com/docs).
+We recommend you follow the [getting started page](https://dashvar.com/default/docs).
 
 ## Features:
 
 - [x] Tiny (<1.8KB gzipped)
 - [x] Only CSS variables, no global styles. No risk to start using with an existing project.
-  - [x] [Colour palette](https://dashvar.com/docs/colour-palette)
-  - [x] [Sizing and Scaling System](https://dashvar.com/docs/sizing-system)
+  - [x] [Colour palette](https://dashvar.com/default/docs/colour-palette)
+  - [x] [Sizing and Scaling System](https://dashvar.com/default/docs/sizing-system)
   - [x] Typography:
-    - [x] [Font size scale](https://dashvar.com/docs/font-size)
-    - [x] [Line height scale](https://dashvar.com/docs/line-height)
-    - [x] [Font family](https://dashvar.com/docs/font-family)
+    - [x] [Font size scale](https://dashvar.com/default/docs/font-size)
+    - [x] [Line height scale](https://dashvar.com/default/docs/line-height)
+    - [x] [Font family](https://dashvar.com/default/docs/font-family)
   - [x] Many more at [full documentation](https://dashvar.com)
-- [x] [Optional modern (and opinionated) CSS reset](https://dashvar.com/docs/base-styles
-- [x] [VS Code extension with IntelliSense](https://dashvar.com/docs/vs-code-extension)
+- [x] [Optional modern (and opinionated) CSS reset](https://dashvar.com/default/docs/base-styles
+- [x] [VS Code extension with IntelliSense](https://dashvar.com/default/docs/vs-code-extension)
 - [x] [NPM package](https://www.npmjs.com/package/dashvar)
   - [x] Export variables as JS object from NPM package
-- [x] [Good documentation](https://dashvar.com/docs)
+- [x] [Good documentation](https://dashvar.com/default/docs)
 - [ ] Examples:
   - [ ] `styled-components`
   - [ ] `styled-jsx`

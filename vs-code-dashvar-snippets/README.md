@@ -1,7 +1,7 @@
 # dashvar-snippets
 
 This extension provides different annotated snippets for each of the CSS Variables provided by
-[Dashvar](https://dashvar.com). Please, refer to the [full Dashvar documentation](https://dashvar.com/docs) if you
+[Dashvar](https://dashvar.com). Please, refer to the [full Dashvar documentation](https://dashvar.com/default/docs) if you
 have any questions.
 
 Check out the following video for a run-through the extension's usage:
@@ -16,7 +16,7 @@ Snippets for each supported CSS Variable.
 
 ## Requirements
 
-In order to use the extension, [make sure you have installed the Dashvar library](https://dashvar.com/docs) in your application.
+In order to use the extension, [make sure you have installed the Dashvar library](https://dashvar.com/default/docs) in your application.
 
 ## Release Notes
 
