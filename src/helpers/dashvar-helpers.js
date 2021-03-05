@@ -13,8 +13,8 @@
     else del.push("lg");
     if (w > 1280) add.push("xl");
     else del.push("xl");
-    if (w > 1536) add.push("2xl");
-    else del.push("2xl");
+    if (w > 1536) add.push("xxl");
+    else del.push("xxl");
 
     del.forEach(function (c) {
       document.body.classList.remove(c);
